@@ -703,7 +703,7 @@ $btn-mb: 0.5rem;
   overflow-y: auto;
   width: $sidebar-width;
   z-index: 99;
-  background: var(--sidebar-bg);
+  background: #F1F8FF;
   border-right: 1px solid var(--sidebar-border-color);
 
   /* Hide scrollbar for Chrome, Safari and Opera */
@@ -727,8 +727,8 @@ $btn-mb: 0.5rem;
 
   #avatar {
     display: block;
-    width: 7rem;
-    height: 7rem;
+    width: 6.5rem;
+    height: 6.5rem;
     overflow: hidden;
     box-shadow: var(--avatar-border-color) 0 0 0 1px;
     transform: translateZ(0); /* fixed the zoom in Safari */
@@ -764,13 +764,13 @@ $btn-mb: 0.5rem;
       @extend %clickable-transition;
       @extend %sidebar-link-hover;
 
-      color: var(--site-title-color);
+      color: #7895CB;
     }
   }
 
   .site-subtitle {
     font-size: 95%;
-    color: var(--site-subtitle-color);
+    color: #A0BFE0;
     margin-top: 0.25rem;
     word-spacing: 1px;
     -webkit-user-select: none;
@@ -797,13 +797,14 @@ $btn-mb: 0.5rem;
         font-weight: 600;
 
         &:hover {
-          background-color: var(--sidebar-hover-bg);
+          background-color: #C5DFF8;
         }
 
         i {
           font-size: 95%;
           opacity: 0.8;
           margin-right: 1.5rem;
+          color: #A0BFE0;
         }
 
         span {
@@ -839,7 +840,7 @@ $btn-mb: 0.5rem;
       height: 1.75rem;
       margin-bottom: $btn-mb; // multi line gap
       border-radius: 50%;
-      color: var(--sidebar-btn-color);
+      color: #7795CB;
       background-color: var(--sidebar-btn-bg);
       text-align: center;
       display: flex;
@@ -869,6 +870,7 @@ $btn-mb: 0.5rem;
     .mode-toggle {
       padding: 0;
       border: 0;
+      color: #7795CB;
 
       @extend %button;
       @extend %sidebar-links;
@@ -879,7 +881,7 @@ $btn-mb: 0.5rem;
       @extend %no-cursor;
       @include ml-mr(calc(($btn-gap - $btn-border-width) / 2));
 
-      background-color: var(--sidebar-btn-color);
+      background-color: #7895CB;
       content: '';
       width: $btn-border-width;
       height: $btn-border-width;
@@ -1217,11 +1219,11 @@ search {
 }
 
 /*
-  Responsive Design:
+Responsive Design:
 
- {sidebar, content, panel} >= 1200px screen width
- {sidebar, content} >= 850px screen width
- {content} <= 849px screen width
+{sidebar, content, panel} >= 1200px screen width
+{sidebar, content} >= 850px screen width
+{content} <= 849px screen width
 
 */
 
@@ -1515,7 +1517,7 @@ search {
   #sidebar {
     width: $sidebar-width-large;
 
-    $icon-gap: 1rem; // for the bottom icons
+    $icon-gap: 1.75rem; // for the bottom icons
 
     .profile-wrapper {
       margin-top: 3.5rem;
@@ -1532,7 +1534,6 @@ search {
     .sidebar-bottom {
       padding-left: 2.75rem;
       margin-bottom: 1.75rem;
-
       a:not(:last-child) {
         margin-right: $icon-gap;
       }
