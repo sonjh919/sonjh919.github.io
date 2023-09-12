@@ -18,6 +18,7 @@
   }
 
   .card {
+
     %img-radius {
       border-radius: $base-radius $base-radius 0 0;
     }
@@ -38,8 +39,11 @@
     }
 
     .card-body {
-      min-height: 10.5rem;
+      min-height: 11rem;
       padding: 1rem;
+      background-color: #FAFEFF;
+      
+      
 
       .card-title {
         @extend %text-clip;
@@ -119,7 +123,7 @@
     &:not(.active) {
       .page-link {
         &:hover {
-          box-shadow: inset var(--btn-border-color) 0 0 0 1px;
+          box-shadow: inset var(--btn-border-color) 0 0 0 2px;
         }
       }
     }

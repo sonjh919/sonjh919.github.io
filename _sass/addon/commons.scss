@@ -231,6 +231,7 @@ i {
 }
 
 #panel-wrapper {
+  
   /* the headings */
   .panel-heading {
     font-family: inherit;
@@ -347,9 +348,18 @@ i {
 .post-preview {
   @extend %rounded;
 
-  border: 0;
+  border-bottom:0.2;
+  border-left:none;
+  border-right:none;
+  border-top:none;
+  border-color: #C5DFF8;
+  border-radius: 1.5%;
+
   background: var(--card-bg);
   box-shadow: var(--card-shadow);
+
+  margin-left:-2rem;
+  margin-right:-3rem;
 
   &::before {
     @extend %rounded;
@@ -366,6 +376,7 @@ i {
   &:hover {
     &::before {
       opacity: 0.3;
+      background-color: #A0BFE0;
     }
   }
 }
