@@ -42,6 +42,7 @@
       min-height: 11rem;
       padding: 1rem;
       background-color: #FAFEFF;
+
       
       
 
@@ -116,7 +117,8 @@
 
     &.active {
       .page-link {
-        background-color: var(--btn-paginator-hover-color);
+        // background-color: var(--btn-paginator-hover-color);
+        color:yellow;
       }
     }
 

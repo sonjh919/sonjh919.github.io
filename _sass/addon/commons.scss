@@ -246,7 +246,7 @@ i {
     border-radius: 0.8rem;
     padding: 0.3rem 0.5rem;
     margin: 0 0.35rem 0.5rem 0;
-
+    
     &:hover {
       transition: all 0.3s ease-in;
     }
@@ -359,7 +359,7 @@ i {
   box-shadow: var(--card-shadow);
 
   margin-left:-2rem;
-  margin-right:-3rem;
+  // margin-right:-3rem;
 
   &::before {
     @extend %rounded;
@@ -510,7 +510,7 @@ main {
   @extend %tag-hover;
 }
 
-.post-tag {
+.post-tag { // 글씨
   display: inline-block;
   min-width: 2rem;
   text-align: center;
@@ -641,7 +641,9 @@ main {
 /* Overwrite bootstrap outline button */
 .btn.btn-outline-primary {
   &:not(.disabled):hover {
-    border-color: #007bff !important;
+    // border-color: #007bff !important;
+    background-color: #C5DFF8;
+    border-color: #C5DFF8;
   }
 }
 
@@ -842,13 +844,13 @@ $btn-mb: 0.5rem;
   }
 
   .sidebar-bottom {
-    padding-left: 2rem;
-    padding-right: 1rem;
+    padding-left: 1.8rem;
+    // padding-right: 1.2rem;
     margin-bottom: 1.5rem;
 
     %button {
-      width: 1.75rem;
-      height: 1.75rem;
+      width: 2rem;
+      height: 2rem;
       margin-bottom: $btn-mb; // multi line gap
       border-radius: 50%;
       color: #7795CB;
@@ -941,7 +943,8 @@ $btn-mb: 0.5rem;
 
   #breadcrumb {
     font-size: 1rem;
-    color: var(--text-muted-color);
+    //color: var(--text-muted-color);
+    color:#5784d8;
     padding-left: 0.5rem;
 
     a:hover {

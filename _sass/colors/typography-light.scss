@@ -15,8 +15,8 @@
   --label-color: #585858;
   --blockquote-border-color: #eeeeee;
   --blockquote-text-color: #757575;
-  --link-color: #0056b2;
-  --link-underline-color: #dee2e6;
+  --link-color: #7895CB;
+  --link-underline-color: #ffffff;
   --button-bg: #ffffff;
   --btn-border-color: #e9ecef;
   --btn-backtotop-color: #686868;
@@ -58,7 +58,9 @@
   /* Home page */
   --post-list-text-color: dimgray;
   --btn-patinator-text-color: #555555;
+  
   --btn-paginator-hover-color: var(--sidebar-bg);
+  
 
   /* Posts */
   --toc-highlight: #0550ae;
@@ -87,7 +89,8 @@
   /* Tags */
   --tag-border: #dee2e6;
   --tag-shadow: var(--btn-border-color);
-  --tag-hover: rgb(222, 226, 230);
+  // --tag-hover: rgb(222, 226, 230);
+  --tag-hover: #C5DFF8; ////////////////////////////
   --search-tag-bg: #f8f9fa;
 
   [class^='prompt-'] {
