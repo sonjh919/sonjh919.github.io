@@ -1,10 +1,8 @@
 ---
 title: Python Error 모음집
-# author: JH
-date: YYYY-MM-DD HH:MM:SS +09:00
+date: 2023-09-16 +0800
 categories: [코딩테스트, Error]
 tags: [Python]
-# render_with_liquid: false
 ---
 
 ---

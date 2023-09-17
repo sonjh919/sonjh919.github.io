@@ -24,7 +24,7 @@ tagline: 소복한 기술 블로그 # it will display as the sub-title
 
 description:
   >- # used by seo meta and the atom feed #  구글 검색에 어떤 키워드로 내 블로그를 검색하게 할 것인가
-  spring, sql, design pattern, algorithm, codingtest, datastructure
+  spring, sql, design pattern, algorithm, codingtest, datastructure, python
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://sonjh919.github.io"
