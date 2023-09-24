@@ -3,7 +3,13 @@ title: Python Error의 종류
 date: 2023-09-24 +0800
 categories: [Area, Python, Error]
 tags: [Python]
+image:
+  path: /assets/img/python.png
 ---
+
+---
+
+## <br>
 
 ## Python error
 
