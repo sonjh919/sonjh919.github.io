@@ -76,6 +76,9 @@
 
   <link rel="stylesheet" href="{{ '/assets/css/:THEME.css' | replace: ':THEME', site.theme | relative_url }}">
 
+    <!-- Customized css -->
+    <link rel="stylesheet" type="text/css" href="/assets/css/linkpreview.css" media="screen">
+
   {% if site.toc and page.toc %}
     <link rel="stylesheet" href="{{ site.data.origin[type].toc.css | relative_url }}">
   {% endif %}

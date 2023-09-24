@@ -1,7 +1,7 @@
 ---
 title: Python Error 모음집
 date: 2023-09-16 +0800
-categories: [Area, 코딩테스트, Error]
+categories: [Area, Python, Error]
 tags: [Python]
 ---
 

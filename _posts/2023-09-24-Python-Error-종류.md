@@ -1,7 +1,7 @@
 ---
 title: Python Error의 종류 10가지
 date: 2023-09-24 +0800
-categories: [Area, 코딩테스트, Error]
+categories: [Area, Python, Error]
 tags: [Python]
 ---
 
