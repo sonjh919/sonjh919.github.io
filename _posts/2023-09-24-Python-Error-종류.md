@@ -1,5 +1,5 @@
 ---
-title: Python Error의 종류 10가지
+title: Python Error의 종류
 date: 2023-09-24 +0800
 categories: [Area, Python, Error]
 tags: [Python]
@@ -48,3 +48,7 @@ tags: [Python]
 ### OverFlowError
 
 - 오버플로우가 생겼을 때 발생하는 에러
+
+### NotImplementedError
+
+- 꼭 작성해야 하는 부분이 구현되지 않았을 경우 일부러 오류를 발생시키기 위해 사용한다.
