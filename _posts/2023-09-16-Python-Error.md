@@ -70,7 +70,7 @@ res = ''.join(map(str, ex_list))
 
 <br>
 
-## IndexError: list assignment index out of range
+## **IndexError: list assignment index out of range**
 
 **Why**
 
