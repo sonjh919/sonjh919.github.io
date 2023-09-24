@@ -15,7 +15,7 @@ Python으로 코딩 테스트 준비를 하면서 겪었던 Error들을 모아�
 
 ---
 
-### **TypeError: list indices must be integers or slices, not str**
+## **TypeError: list indices must be integers or slices, not str**
 
 **Why**
 
@@ -44,7 +44,7 @@ for i in range(len(ex_list)):
 
 <br>
 
-### **TypeError: sequence item 0: expected str instance, int found**
+## **TypeError: sequence item 0: expected str instance, int found**
 
 **Why**
 
@@ -70,7 +70,7 @@ res = ''.join(map(str, ex_list))
 
 <br>
 
-### IndexError: list assignment index out of range
+## IndexError: list assignment index out of range
 
 **Why**
 
