@@ -1,7 +1,7 @@
 ---
 title: Python Error 모음집
 date: 2023-09-16 +0800
-categories: [Area, Python, Error]
+categories: [Python, Error]
 tags: [Python]
 image:
   path: /assets/img/python.png
