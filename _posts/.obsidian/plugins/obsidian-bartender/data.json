@@ -1,0 +1,62 @@
+{
+  "statusBarOrder": [],
+  "ribbonBarOrder": [],
+  "fileExplorerOrder": {
+    "/": [
+      "Inbox",
+      "Project",
+      "list indices must be integers or slices, not str.md",
+      "Area",
+      "Resource",
+      "Archive",
+      "sequence item 0 expected str instance, int found.md"
+    ],
+    "Project/Python/문법": [
+      "Project/Python/문법/Python 문법.md",
+      "Project/Python/문법/자료형",
+      "Project/Python/문법/제어문",
+      "Project/Python/문법/입출력"
+    ],
+    "Project/Algorithm & Data Structure": [
+      "Project/Algorithm & Data Structure/시간 복잡도.md",
+      "Project/Algorithm & Data Structure/공간 복잡도.md",
+      "Project/Algorithm & Data Structure/Greedy.md"
+    ],
+    "Project/Python": [
+      "Project/Python/MOC.md",
+      "Project/Python/문법",
+      "Project/Python/Error"
+    ],
+    "Project/Python/Error": [
+      "Project/Python/Error/Python error.md",
+      "Project/Python/Error/Value Error",
+      "Project/Python/Error/Index Error",
+      "Project/Python/Error/Syntax Error",
+      "Project/Python/Error/NameError",
+      "Project/Python/Error/ZeroDivisionError",
+      "Project/Python/Error/TypeError",
+      "Project/Python/Error/KeyError",
+      "Project/Python/Error/FileNotFoundError",
+      "Project/Python/Error/AttributeError",
+      "Project/Python/Error/OverFlowError"
+    ],
+    "Project/BlockChain": [
+      "Project/BlockChain/솔리디티(Solidity)",
+      "Project/BlockChain/블록체인.md",
+      "Project/BlockChain/비트코인과 알트코인.md",
+      "Project/BlockChain/스마트 계약.md",
+      "Project/BlockChain/암호화폐 거래소.md",
+      "Project/BlockChain/암호화폐.md",
+      "Project/BlockChain/이더리움.md",
+      "Project/BlockChain/토큰.md",
+      "Project/BlockChain/프로토콜.md",
+      "Project/BlockChain/ERC.md",
+      "Project/BlockChain/FT.md",
+      "Project/BlockChain/NFT.md"
+    ]
+  },
+  "actionBarOrder": {},
+  "autoHide": false,
+  "autoHideDelay": 2000,
+  "dragDelay": 200
+}

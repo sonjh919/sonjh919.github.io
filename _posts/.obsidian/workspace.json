@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "2ca6cf77a8988840",
+    "type": "split",
+    "children": [
+      {
+        "id": "39113ea966feff5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08b7dccb761ecf09",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c93d7d85333fa20",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ab81984f1adf4a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22e62c815c87a34c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "custom"
+              }
+            }
+          },
+          {
+            "id": "e6d2440fd7f079b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f94ac31b3815532b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "10a006f38cdebf79",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "dbadee778955a960",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73d9ee6b66031883",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0d2e3f6089f6430b",
+    "type": "split",
+    "children": [
+      {
+        "id": "aee0c20d4d3b43d9",
+        "type": "tabs",
+        "dimension": 63.07692307692307,
+        "children": [
+          {
+            "id": "194553660e95f057",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d41bb3a1a00b0b01",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "48e53b0b5e12206e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8dc63a58024375e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f332e7319e20ee7e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d576b681e404c835",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "4dda45ab82b77780",
+        "type": "tabs",
+        "dimension": 36.92307692307693,
+        "children": [
+          {
+            "id": "28c0689a8d137f4d",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "73d9ee6b66031883",
+  "lastOpenFiles": [
+    "Inbox/책.md",
+    "Inbox/Plugin 모음.md",
+    "Inbox/Pasted image 20231023175006.png",
+    "Inbox/quartz.md",
+    "Inbox/Jekyll.md",
+    "Inbox/우테코.md",
+    "Project/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기/수학 연산.md",
+    "Project/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기/배열.md",
+    "Project/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기/Lesson 1 - 좀비 공장 만들기.md",
+    "Todo/2023-12-11.md",
+    "Project/BlockChain/가스.md",
+    "Project/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기/구조체.md",
+    "Templates/Insert_Callout.md",
+    "Project/BlockChain/솔리디티(Solidity)/솔리디티(Solidity).md",
+    "Project/BlockChain/이더리움.md",
+    "Project/BlockChain/블록.md",
+    "Project/JAVA/Java 개발 환경과 실행 순서.md",
+    "Project.md",
+    "_index.md",
+    "Resource/기획/프로젝트 기획.md",
+    "Todo/2023-12-10.md",
+    "Archive/IMG/1157.png",
+    "Project/BlockChain/트랜잭션.md",
+    "Project/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품/ERC-721.md",
+    "Project/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기/Truffle.md",
+    "Project/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기/Lesson 1 - Truffle로 DApp 개발하기.md",
+    "Project/BlockChain/솔리디티(Solidity)/Advanced/Advanced.md",
+    "Project/BlockChain/솔리디티(Solidity)/Beginner/Lesson 3 - 고급 솔리디티 개념/사용자 정의 함수 제어자.md",
+    "Project/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기",
+    "Project/BlockChain/솔리디티(Solidity)/Advanced",
+    "Project/BlockChain/솔리디티(Solidity)/Beginner",
+    "Project/BlockChain/솔리디티(Solidity)/Beginner/Lesson 5 - ERC721 & 크립토 수집품",
+    "Project/BlockChain/솔리디티(Solidity)/Beginner/Lesson 4 - 좀비 전투 시스템",
+    "Project/BlockChain/솔리디티(Solidity)/Beginner/Lesson 3 - 고급 솔리디티 개념",
+    "Project/BlockChain/솔리디티(Solidity)/Beginner/Lesson 2 - 좀비가 희생물을 공격하다",
+    "Project/BlockChain/솔리디티(Solidity)/Beginner/Lesson 1 - 좀비 공장 만들기",
+    "Project/BlockChain/솔리디티(Solidity)",
+    "Todo",
+    "Archive/IMG/Deque.png",
+    "Archive/IMG/Queue.png",
+    "Archive/IMG/Stack.png",
+    "Archive/IMG/17103.png",
+    "Archive/IMG/1929.png",
+    "Archive/IMG/18870.png",
+    "Archive/IMG/10989.png",
+    "Archive/IMG/1436.png"
+  ]
+}
