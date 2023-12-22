@@ -11,8 +11,13 @@
             "id": "08b7dccb761ecf09",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "temp/Git/개념/2023-12-22-Git의 3가지 영역.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -104,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "temp/Git/개념/2023-12-22-Git의 3가지 영역.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "temp/Git/개념/2023-12-22-Git의 3가지 영역.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "temp/Git/개념/2023-12-22-Git의 3가지 영역.md"
+              }
             }
           },
           {
@@ -189,11 +198,17 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "73d9ee6b66031883",
+  "active": "08b7dccb761ecf09",
   "lastOpenFiles": [
+    "2023-09-25-백준 11718 파이썬 - 그대로 출력하기.md",
     "Inbox/책.md",
     "Inbox/Plugin 모음.md",
     "Inbox/Pasted image 20231023175006.png",
@@ -221,7 +236,6 @@
     "Project/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기/Truffle.md",
     "Project/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기/Lesson 1 - Truffle로 DApp 개발하기.md",
     "Project/BlockChain/솔리디티(Solidity)/Advanced/Advanced.md",
-    "Project/BlockChain/솔리디티(Solidity)/Beginner/Lesson 3 - 고급 솔리디티 개념/사용자 정의 함수 제어자.md",
     "Project/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기",
     "Project/BlockChain/솔리디티(Solidity)/Advanced",
     "Project/BlockChain/솔리디티(Solidity)/Beginner",
