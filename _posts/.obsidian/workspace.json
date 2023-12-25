@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo/2023-12-22.md",
+                "file": "SecondBrain/Git/2023-12-22-Git.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo/2023-12-22.md",
+                "file": "SecondBrain/Git/2023-12-22-Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo/2023-12-22.md",
+                "file": "SecondBrain/Git/2023-12-22-Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo/2023-12-22.md"
+                "file": "SecondBrain/Git/2023-12-22-Git.md"
               }
             }
           },
@@ -207,12 +207,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "08b7dccb761ecf09",
   "lastOpenFiles": [
-    "Templates/TIL Templete.md",
+    "Templates/gitblog templete.md",
+    "SecondBrain/Greedy.md",
+    "SecondBrain/Git/개념/2023-12-22-Git의 3가지 영역.md",
+    "SecondBrain/Git/개념/무제 파일.md",
+    "SecondBrain/Git/개념/2023-12-22-Git 개념.md",
+    "SecondBrain/Git/개념/2023-12-22-Commit 종류.md",
+    "Templates/무제 파일.md",
+    "Templates/Insert_Callout.md",
+    "SecondBrain/2023-10-01-백준 10989 - 수 정렬하기 3.md",
+    "SecondBrain/Git/2023-12-22-Git.md",
+    "SecondBrain/2023-10-16-블로그 운영에 대하여.md",
+    "SecondBrain/2023-09-16-Python-Error.md",
     "Todo/2023-12-22.md",
     "Todo",
-    "Templates/Insert_Callout.md",
     "Templates",
     "temp/Git/개념/2023-12-22-Git의 3가지 영역.md",
     "SecondBrain/Git/오류/2023-12-22-LF will be replaced by CRLF in pom.xml.md",
@@ -227,19 +237,9 @@
     "SecondBrain/Git/명령어/2023-12-22-init.md",
     "SecondBrain/Git/명령어/2023-12-22-Git 명령어.md",
     "SecondBrain/Git/명령어/2023-12-22-fetch.md",
-    "SecondBrain/Git/명령어/2023-12-22-diff.md",
-    "SecondBrain/Git/명령어/2023-12-22-config.md",
-    "SecondBrain/Git/명령어/2023-12-22-commit.md",
-    "SecondBrain/Git/명령어/2023-12-22-clone.md",
-    "SecondBrain/Git/명령어/2023-12-22-checkout.md",
-    "SecondBrain/Git/명령어/2023-12-22-add.md",
-    "SecondBrain/Git/개념/2023-12-22-Git의 3가지 영역.md",
-    "SecondBrain/Git/개념/2023-12-22-Git 개념.md",
-    "SecondBrain/Git/개념/2023-12-22-Commit 종류.md",
     "SecondBrain/Git/오류",
     "SecondBrain/Git/명령어",
     "SecondBrain/Git/개념",
-    "SecondBrain/Git/2023-12-22-Git.md",
     "SecondBrain/Git",
     "SecondBrain",
     "Inbox/Pasted image 20231023175006.png",

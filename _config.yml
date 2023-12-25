@@ -3,14 +3,10 @@
 # Import the theme
 theme: jekyll-theme-chirpy
 
-# Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
-# and doesn't have a custom domain.
-baseurl: ""
-
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: ko
+lang: ko-KR
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: Asia/Seoul
@@ -18,16 +14,17 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: JH DevBlog # the main title
+title: JH SecondBrain # the main title
 
-tagline: 소복한 기술 블로그 # it will display as the sub-title
+tagline: 노트를 연결하여 지식을 확장하는 기술 블로그입니다. # it will display as the sub-title, 타이틀 부연설명
 
-description:
-  >- # used by seo meta and the atom feed #  구글 검색에 어떤 키워드로 내 블로그를 검색하게 할 것인가
-  spring, sql, design pattern, algorithm, codingtest, datastructure, python
+description: 
+  >- # used by seo meta and the atom feed # 구글 검색에 어떤 키워드로 검색하게 할 것인가
+  java, spring, databse, sql, git, devops, aws, docker
 
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://sonjh919.github.io"
+# Fill in the protocol & hostname for your site.
+# e.g. 'https://username.github.io', note that it does not end with a '/'.
+url: "https://sonjh919.github.io/"
 
 github:
   username: sonjh919 # change to your github username
@@ -74,13 +71,15 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
+# img_cdn: "https://chirpy-img.netlify.app"
 img_cdn: ""
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/snowflake.jpg
-# avatar: "/commons/avatar.jpg"
+#아바타 이미지 경로
+avatar: "/assets/img/graphview.png"
 
 # boolean type, the global switch for TOC in posts.
+# 목차 표시
 toc: true
 
 comments:
@@ -114,7 +113,11 @@ assets:
 pwa:
   enabled: true # the option for PWA feature
 
+# 한 목록에 표시할 글의 수
 paginate: 10
+
+# The base URL of your site
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -156,7 +159,7 @@ defaults:
       layout: page
       permalink: /:title/
   - scope:
-      path: assets/img/favicons
+      path: assets/img/graphview.png
     values:
       swcache: true
   - scope:
@@ -182,7 +185,6 @@ exclude:
   - docs
   - tools
   - README.md
-  - CHANGELOG.md
   - LICENSE
   - rollup.config.js
   - package*.json

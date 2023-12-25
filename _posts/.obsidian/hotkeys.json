@@ -20,5 +20,13 @@
       ],
       "key": "Q"
     }
+  ],
+  "templater-obsidian:Templates/gitblog templete.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
   ]
 }

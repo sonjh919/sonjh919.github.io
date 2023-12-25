@@ -1,13 +1,19 @@
 ---
+
 title: Python Error 모음집
+
 date: 2023-09-16 +0800
+
 categories: [Python, Error]
+
 tags: [Python]
+
 image:
-  path: /assets/img/python.png
----
+
+  path: /assets/img/python.png
 
 ---
+
 
 <br>
 Python으로 코딩 테스트 준비를 하면서 겪었던 Error들을 모아봤다. Ctrl+F로 찾아보자.

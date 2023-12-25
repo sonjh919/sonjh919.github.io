@@ -1,8 +1,6 @@
 [
   "obsidian-style-settings",
-  "obsidian-git",
   "table-editor-obsidian",
-  "obsidian-emoji-toolbar",
   "obsidian-excalidraw-plugin",
   "obsidian-tasks-plugin",
   "obsidian42-brat",
@@ -14,6 +12,5 @@
   "obsidian-checklist-plugin",
   "calendar",
   "periodic-notes",
-  "obsidian-icon-folder",
   "tistory"
 ]
