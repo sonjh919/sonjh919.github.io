@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2023-12-26-2023-12-21 TIL.md",
+                "file": "SecondBrain/Blog/2023-12-26-github 블로그를 시작하며.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2023-12-26-2023-12-21 TIL.md",
+                "file": "SecondBrain/Blog/2023-12-26-github 블로그를 시작하며.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2023-12-26-2023-12-21 TIL.md",
+                "file": "SecondBrain/Blog/2023-12-26-github 블로그를 시작하며.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2023-12-26-2023-12-21 TIL.md"
+                "file": "SecondBrain/Blog/2023-12-26-github 블로그를 시작하며.md"
               }
             }
           },
@@ -209,8 +209,8 @@
   },
   "active": "ed27bc2d5f590f18",
   "lastOpenFiles": [
-    "SecondBrain/Todo/TIL/2023-12-26-2023-12-22 TIL.md",
     "SecondBrain/Todo/TIL/2023-12-26-2023-12-21 TIL.md",
+    "SecondBrain/Todo/TIL/2023-12-26-2023-12-22 TIL.md",
     "SecondBrain/Todo/TIL/2023-12-26-2023-12-26 TIL.md",
     "SecondBrain/Blog/2023-12-26-github 블로그를 시작하며.md",
     "SecondBrain/Git/명령어/2023-12-26-diff.md",
