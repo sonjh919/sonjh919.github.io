@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecondBrain/Git/오류/Git 오류 모음집.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-26-2023-12-22 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Git/오류/Git 오류 모음집.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-26-2023-12-22 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Git/오류/Git 오류 모음집.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-26-2023-12-22 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/Git/오류/Git 오류 모음집.md"
+                "file": "SecondBrain/Todo/TIL/2023-12-26-2023-12-22 TIL.md"
               }
             }
           },
@@ -209,10 +209,12 @@
   },
   "active": "ed27bc2d5f590f18",
   "lastOpenFiles": [
+    "SecondBrain/Todo/TIL/2023-12-26-2023-12-21 TIL.md",
+    "SecondBrain/Todo/TIL/2023-12-26-2023-12-22 TIL.md",
+    "SecondBrain/Git/오류/Git 오류 모음집.md",
     "SecondBrain/Git/오류/2023-12-26-LF will be replaced by CRLF in pom.xml.md",
     "SecondBrain/Git/개념/Git 개념.md",
     "SecondBrain/Git/개념/2023-12-26-Git의 3가지 영역.md",
-    "SecondBrain/Git/오류/Git 오류 모음집.md",
     "SecondBrain/temp/Git/오류/Git 오류 모음집.md",
     "SecondBrain/Openrun/기획&설계/2023-12-26-어떤 DB를 선택해야 할까.md",
     "SecondBrain/temp/Git/오류/2023-12-26-LF will be replaced by CRLF in pom.xml.md",
@@ -233,8 +235,6 @@
     "SecondBrain/temp/Git/명령어/2023-12-26-clone.md",
     "SecondBrain/temp/Git/명령어/2023-12-26-checkout.md",
     "SecondBrain/temp/Git/개념/2023-12-26-Git의 3가지 영역.md",
-    "SecondBrain/Git/명령어/2023-12-26-add.md",
-    "SecondBrain/temp/Git/개념/Git 개념.md",
     "SecondBrain/temp/Git/오류",
     "SecondBrain/temp/Git/명령어",
     "SecondBrain/temp/Git/개념",
