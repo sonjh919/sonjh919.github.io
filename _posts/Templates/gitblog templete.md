@@ -1,11 +1,8 @@
 ---
 title: <% tp.file.title %>
 date: <% tp.file.creation_date() %>
-categories:
-  - Python
-  - Error
-tags:
-  - Python
+categories: []
+tags: 
 image: 
-path: /assets/img/python.png
+path:
 ---

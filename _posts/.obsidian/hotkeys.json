@@ -13,18 +13,10 @@
       "key": "F12"
     }
   ],
-  "tistory:publish": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Q"
-    }
-  ],
   "templater-obsidian:Templates/gitblog templete.md": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
       "key": "Q"
     }

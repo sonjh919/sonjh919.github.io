@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecondBrain/Git/2023-12-22-Git.md",
+                "file": "SecondBrain/Git/오류/2023-12-26-LF will be replaced by CRLF in pom.xml.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Git/2023-12-22-Git.md",
+                "file": "SecondBrain/Git/오류/2023-12-26-LF will be replaced by CRLF in pom.xml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Git/2023-12-22-Git.md",
+                "file": "SecondBrain/Git/오류/2023-12-26-LF will be replaced by CRLF in pom.xml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/Git/2023-12-22-Git.md"
+                "file": "SecondBrain/Git/오류/2023-12-26-LF will be replaced by CRLF in pom.xml.md"
               }
             }
           },
@@ -209,51 +209,51 @@
   },
   "active": "08b7dccb761ecf09",
   "lastOpenFiles": [
-    "Templates/gitblog templete.md",
-    "SecondBrain/Greedy.md",
-    "SecondBrain/Git/개념/2023-12-22-Git의 3가지 영역.md",
-    "SecondBrain/Git/개념/무제 파일.md",
-    "SecondBrain/Git/개념/2023-12-22-Git 개념.md",
-    "SecondBrain/Git/개념/2023-12-22-Commit 종류.md",
-    "Templates/무제 파일.md",
-    "Templates/Insert_Callout.md",
-    "SecondBrain/2023-10-01-백준 10989 - 수 정렬하기 3.md",
-    "SecondBrain/Git/2023-12-22-Git.md",
-    "SecondBrain/2023-10-16-블로그 운영에 대하여.md",
-    "SecondBrain/2023-09-16-Python-Error.md",
-    "Todo/2023-12-22.md",
-    "Todo",
-    "Templates",
-    "temp/Git/개념/2023-12-22-Git의 3가지 영역.md",
-    "SecondBrain/Git/오류/2023-12-22-LF will be replaced by CRLF in pom.xml.md",
-    "SecondBrain/Git/오류/2023-12-22-Git 오류 모음집.md",
-    "SecondBrain/Git/명령어/2023-12-22-status.md",
-    "SecondBrain/Git/명령어/2023-12-22-revert.md",
-    "SecondBrain/Git/명령어/2023-12-22-reset.md",
-    "SecondBrain/Git/명령어/2023-12-22-remote.md",
-    "SecondBrain/Git/명령어/2023-12-22-push.md",
-    "SecondBrain/Git/명령어/2023-12-22-pull.md",
-    "SecondBrain/Git/명령어/2023-12-22-log.md",
-    "SecondBrain/Git/명령어/2023-12-22-init.md",
-    "SecondBrain/Git/명령어/2023-12-22-Git 명령어.md",
-    "SecondBrain/Git/명령어/2023-12-22-fetch.md",
+    "SecondBrain/Todo/TIL/TIL.md",
+    "SecondBrain/Git/명령어/2023-12-26-status.md",
+    "SecondBrain/Openrun/기획&설계/2023-12-26-플로우 차트와 정책정의서.md",
+    "SecondBrain/Git/개념/2023-12-26-Git의 3가지 영역.md",
+    "SecondBrain/Git/개념/2023-12-26-Commit 종류.md",
+    "SecondBrain/Git/오류/Git 오류 모음집.md",
+    "SecondBrain/Git/명령어/Git 명령어.md",
+    "SecondBrain/Git/명령어/2023-12-26-add.md",
+    "SecondBrain/Git/명령어/2023-12-26-checkout.md",
+    "SecondBrain/Git/개념/Git 개념.md",
+    "SecondBrain/Git/2023-12-26-Git.md",
+    "SecondBrain/Git/개념/Git의 3가지 영역.md",
+    "SecondBrain/Git/명령어/2023-12-26-clone.md",
+    "SecondBrain/Git/개념/Commit 종류.md",
+    "SecondBrain/Todo/TIL/2023-12-26-2023-12-21 TIL.md",
+    "SecondBrain/Git/오류/LF will be replaced by CRLF in pom.xml.md",
     "SecondBrain/Git/오류",
+    "SecondBrain/Git/명령어/status.md",
+    "SecondBrain/Git/명령어/revert.md",
+    "SecondBrain/Git/명령어/reset.md",
+    "SecondBrain/Git/명령어/remote.md",
+    "SecondBrain/Git/명령어/push.md",
+    "SecondBrain/Git/명령어/log.md",
+    "SecondBrain/Git/명령어/fetch.md",
+    "SecondBrain/Git/명령어/pull.md",
+    "SecondBrain/Git/명령어/init.md",
+    "SecondBrain/Git/명령어/diff.md",
     "SecondBrain/Git/명령어",
     "SecondBrain/Git/개념",
     "SecondBrain/Git",
-    "SecondBrain",
+    "SecondBrain/Todo/IMG/20231222.png",
+    "SecondBrain/Todo/IMG/20231221.png",
+    "posts/20190808",
+    "posts",
+    "SecondBrain/Todo/IMG/2023-12-26-Pasted image 20231221165155.png",
+    "SecondBrain/Todo/IMG/2023-12-26-Pasted image 20231222201543.png",
+    "SecondBrain/Todo/WIL",
+    "SecondBrain/Todo/TIL",
+    "SecondBrain/Todo/IMG",
+    "SecondBrain/Todo",
+    "Todo/IMG/2023-12-26-Pasted image 20231222201543.png",
+    "Todo/IMG/2023-12-26-Pasted image 20231221165155.png",
     "Inbox/Pasted image 20231023175006.png",
     "Archive/IMG/1157.png",
-    "Project/BlockChain/솔리디티(Solidity)/Advanced/Lesson 1 - Truffle로 DApp 개발하기",
-    "Project/BlockChain/솔리디티(Solidity)/Advanced",
-    "Project/BlockChain/솔리디티(Solidity)/Beginner",
     "Archive/IMG/Deque.png",
-    "Archive/IMG/Queue.png",
-    "Archive/IMG/Stack.png",
-    "Archive/IMG/17103.png",
-    "Archive/IMG/1929.png",
-    "Archive/IMG/18870.png",
-    "Archive/IMG/10989.png",
-    "Archive/IMG/1436.png"
+    "Archive/IMG/Queue.png"
   ]
 }
