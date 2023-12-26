@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: JH SecondBrain # the main title
 
-tagline: 노트를 연결하여 지식을 확장하는 기술 블로그입니다. # it will display as the sub-title, 타이틀 부연설명
+tagline: 노트를 연결하여 지식을 확장하는 개발 블로그입니다. # it will display as the sub-title, 타이틀 부연설명
 
 description: 
   >- # used by seo meta and the atom feed # 구글 검색에 어떤 키워드로 검색하게 할 것인가
