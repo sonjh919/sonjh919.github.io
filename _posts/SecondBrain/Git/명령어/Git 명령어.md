@@ -15,7 +15,7 @@ path:
 [checkout](https://sonjh919.github.io/posts/checkout)
 [status](https://sonjh919.github.io/posts/status)
 [add](https://sonjh919.github.io/posts/add)
-[Area/Git/명령어/commit](https://sonjh919.github.io/posts/Area/Git/명령어/commit)
+[commit](https://sonjh919.github.io/posts/commit)
 [push](https://sonjh919.github.io/posts/push)
 [pull](https://sonjh919.github.io/posts/pull)
 [config](https://sonjh919.github.io/posts/config)
