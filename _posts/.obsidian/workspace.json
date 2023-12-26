@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2023-12-26-2023-12-22 TIL.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-26-2023-12-26 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2023-12-26-2023-12-22 TIL.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-26-2023-12-26 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2023-12-26-2023-12-22 TIL.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-26-2023-12-26 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2023-12-26-2023-12-22 TIL.md"
+                "file": "SecondBrain/Todo/TIL/2023-12-26-2023-12-26 TIL.md"
               }
             }
           },
@@ -207,10 +207,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ed27bc2d5f590f18",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
-    "SecondBrain/Todo/TIL/2023-12-26-2023-12-21 TIL.md",
+    "SecondBrain/Blog/2023-12-26-github 블로그를 시작하며.md",
     "SecondBrain/Todo/TIL/2023-12-26-2023-12-22 TIL.md",
+    "SecondBrain/Blog",
+    "SecondBrain/Todo/TIL/2023-12-26-2023-12-26 TIL.md",
+    "temp/github 블로그를 시작하며.md",
+    "temp/2023-12-26 TIL.md",
+    "temp",
+    "SecondBrain/temp",
+    "SecondBrain/새 폴더",
+    "SecondBrain/Todo/TIL/2023-12-26-2023-12-21 TIL.md",
     "SecondBrain/Git/오류/Git 오류 모음집.md",
     "SecondBrain/Git/오류/2023-12-26-LF will be replaced by CRLF in pom.xml.md",
     "SecondBrain/Git/개념/Git 개념.md",
@@ -230,21 +238,12 @@
     "SecondBrain/temp/Git/명령어/2023-12-26-log.md",
     "SecondBrain/temp/Git/명령어/2023-12-26-init.md",
     "SecondBrain/temp/Git/명령어/2023-12-26-fetch.md",
-    "SecondBrain/temp/Git/명령어/2023-12-26-config.md",
-    "SecondBrain/temp/Git/명령어/2023-12-26-commit.md",
-    "SecondBrain/temp/Git/명령어/2023-12-26-clone.md",
-    "SecondBrain/temp/Git/명령어/2023-12-26-checkout.md",
-    "SecondBrain/temp/Git/개념/2023-12-26-Git의 3가지 영역.md",
     "SecondBrain/temp/Git/오류",
     "SecondBrain/temp/Git/명령어",
     "SecondBrain/temp/Git/개념",
     "SecondBrain/temp/Git",
-    "SecondBrain/temp",
-    "SecondBrain/새 폴더",
     "SecondBrain/Git/오류",
     "SecondBrain/Git/명령어",
-    "SecondBrain/Git/개념",
-    "SecondBrain/Git",
     "SecondBrain/Todo/IMG/20231222.png",
     "SecondBrain/Todo/IMG/20231221.png",
     "SecondBrain/Todo/IMG/2023-12-26-Pasted image 20231221165155.png",
