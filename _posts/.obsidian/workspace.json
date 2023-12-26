@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecondBrain/Git/오류/2023-12-26-LF will be replaced by CRLF in pom.xml.md",
+                "file": "SecondBrain/Git/개념/2023-12-26-Git의 3가지 영역.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Git/오류/2023-12-26-LF will be replaced by CRLF in pom.xml.md",
+                "file": "SecondBrain/Git/개념/2023-12-26-Git의 3가지 영역.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Git/오류/2023-12-26-LF will be replaced by CRLF in pom.xml.md",
+                "file": "SecondBrain/Git/개념/2023-12-26-Git의 3가지 영역.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/Git/오류/2023-12-26-LF will be replaced by CRLF in pom.xml.md"
+                "file": "SecondBrain/Git/개념/2023-12-26-Git의 3가지 영역.md"
               }
             }
           },
@@ -209,17 +209,18 @@
   },
   "active": "08b7dccb761ecf09",
   "lastOpenFiles": [
+    "SecondBrain/Git/개념/2023-12-26-Commit 종류.md",
+    "SecondBrain/Git/2023-12-26-Git.md",
+    "SecondBrain/Git/오류/2023-12-26-LF will be replaced by CRLF in pom.xml.md",
     "SecondBrain/Todo/TIL/TIL.md",
     "SecondBrain/Git/명령어/2023-12-26-status.md",
     "SecondBrain/Openrun/기획&설계/2023-12-26-플로우 차트와 정책정의서.md",
     "SecondBrain/Git/개념/2023-12-26-Git의 3가지 영역.md",
-    "SecondBrain/Git/개념/2023-12-26-Commit 종류.md",
     "SecondBrain/Git/오류/Git 오류 모음집.md",
     "SecondBrain/Git/명령어/Git 명령어.md",
     "SecondBrain/Git/명령어/2023-12-26-add.md",
     "SecondBrain/Git/명령어/2023-12-26-checkout.md",
     "SecondBrain/Git/개념/Git 개념.md",
-    "SecondBrain/Git/2023-12-26-Git.md",
     "SecondBrain/Git/개념/Git의 3가지 영역.md",
     "SecondBrain/Git/명령어/2023-12-26-clone.md",
     "SecondBrain/Git/개념/Commit 종류.md",
@@ -235,7 +236,6 @@
     "SecondBrain/Git/명령어/fetch.md",
     "SecondBrain/Git/명령어/pull.md",
     "SecondBrain/Git/명령어/init.md",
-    "SecondBrain/Git/명령어/diff.md",
     "SecondBrain/Git/명령어",
     "SecondBrain/Git/개념",
     "SecondBrain/Git",

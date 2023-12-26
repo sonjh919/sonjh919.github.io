@@ -11,18 +11,18 @@ path:
 ---
 
 ## 🌈 Git 명령어
-[[init]]
-[[checkout]]
-[[status]]
-[[add]]
-[[Area/Git/명령어/commit]]
-[[push]]
-[[pull]]
-[[config]]
-[[clone]]
-[[log]]
-[[diff]]
-[[reset]]
-[[revert]]
-[[remote]]
-[[fetch]]
+[init](https://sonjh919.github.io/posts/init)
+[checkout](https://sonjh919.github.io/posts/checkout)
+[status](https://sonjh919.github.io/posts/status)
+[add](https://sonjh919.github.io/posts/add)
+[Area/Git/명령어/commit](https://sonjh919.github.io/posts/Area/Git/명령어/commit)
+[push](https://sonjh919.github.io/posts/push)
+[pull](https://sonjh919.github.io/posts/pull)
+[config](https://sonjh919.github.io/posts/config)
+[clone](https://sonjh919.github.io/posts/clone)
+[log](https://sonjh919.github.io/posts/log)
+[diff](https://sonjh919.github.io/posts/diff)
+[reset](https://sonjh919.github.io/posts/reset)
+[revert](https://sonjh919.github.io/posts/revert)
+[remote](https://sonjh919.github.io/posts/remote)
+[fetch](https://sonjh919.github.io/posts/fetch)
