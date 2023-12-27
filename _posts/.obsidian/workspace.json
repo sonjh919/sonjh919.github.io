@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecondBrain/Openrun/기획&설계/2023-12-26-프로젝트 시작.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-27-2023-12-27 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Openrun/기획&설계/2023-12-26-프로젝트 시작.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-27-2023-12-27 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Openrun/기획&설계/2023-12-26-프로젝트 시작.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-27-2023-12-27 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/Openrun/기획&설계/2023-12-26-프로젝트 시작.md"
+                "file": "SecondBrain/Todo/TIL/2023-12-27-2023-12-27 TIL.md"
               }
             }
           },
@@ -207,8 +207,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "ed27bc2d5f590f18",
   "lastOpenFiles": [
+    "SecondBrain/Openrun/기획&설계/2023-12-26-프로젝트 시작.md",
     "temp/Openrun/기획&설계/2023-12-27-프로젝트 시작.md",
     "SecondBrain/Openrun/Setting/2023-12-27-스프링 프로젝트 Docker Build 하기.md",
     "temp/Openrun/기획&설계/2023-12-27-주제 확정짓기.md",
@@ -240,7 +241,6 @@
     "SecondBrain/Todo/TIL/2023-12-26-2023-12-26 TIL.md",
     "temp/Openrun/기획&설계/플로우 차트와 정책정의서.md",
     "temp/Openrun/기획&설계/프로젝트의 목적.md",
-    "temp/Openrun/기획&설계/클라우드 서비스 플랫폼.md",
     "temp/WIL",
     "temp/TIL",
     "temp/Error",
