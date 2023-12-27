@@ -3,6 +3,7 @@ title: Repository Rule
 date: 2023-12-21 23:28
 categories:
   - Openur
+  - 기획&설계
 tags:
   - 기획
   - Project

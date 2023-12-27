@@ -3,6 +3,7 @@ title: LF will be replaced by CRLF in pom.xml
 date: 2023-12-21 14:30
 categories:
   - Git
+  - GitError
 tags:
   - Git
   - GitError

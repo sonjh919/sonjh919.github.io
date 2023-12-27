@@ -3,12 +3,13 @@ title: 스프링 프로젝트 Docker Build 하기
 date: 2023-12-27 14:27
 categories:
   - Openur
+  - Setting
 tags:
   - Spring
   - Docker
-  - setting
   - Gradle
   - Project
+  - Setting
 image: 
 path:
 ---

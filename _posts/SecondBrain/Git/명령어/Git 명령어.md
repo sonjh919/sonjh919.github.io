@@ -3,6 +3,7 @@ title: Git 명령어
 date: 2023-12-21 14:07
 categories:
   - Git
+  - Git명령어
 tags:
   - Git
   - Git명령어

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecondBrain/Openrun/Setting/2023-12-27-스프링 프로젝트 생성하기.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-27-2023-12-27 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Openrun/Setting/2023-12-27-스프링 프로젝트 생성하기.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-27-2023-12-27 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Openrun/Setting/2023-12-27-스프링 프로젝트 생성하기.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-27-2023-12-27 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/Openrun/Setting/2023-12-27-스프링 프로젝트 생성하기.md"
+                "file": "SecondBrain/Todo/TIL/2023-12-27-2023-12-27 TIL.md"
               }
             }
           },
@@ -209,38 +209,38 @@
   },
   "active": "ed27bc2d5f590f18",
   "lastOpenFiles": [
-    "SecondBrain/Openrun/Setting/2023-12-27-스프링 프로젝트 Docker Build 하기.md",
+    "SecondBrain/Todo/TIL/2023-12-26-2023-12-26 TIL.md",
+    "SecondBrain/Todo/TIL/2023-12-26-2023-12-22 TIL.md",
+    "SecondBrain/Todo/TIL/2023-12-26-2023-12-21 TIL.md",
     "SecondBrain/Openrun/Setting/2023-12-27-스프링 프로젝트 생성하기.md",
-    "SecondBrain/Todo/TIL/2023-12-27-2023-12-27 TIL.md",
+    "SecondBrain/Openrun/Setting/2023-12-27-스프링 프로젝트 Docker Build 하기.md",
+    "SecondBrain/Openrun/기획&설계/2023-12-26-Spring과 Java 버전 선택.md",
+    "SecondBrain/Openrun/기획&설계/2023-12-26-Repository Rule.md",
+    "SecondBrain/Openrun/기획&설계/2023-12-26-플로우 차트와 정책정의서.md",
+    "SecondBrain/Openrun/기획&설계/2023-12-26-프로젝트의 목적.md",
     "SecondBrain/Openrun/기획&설계/2023-12-26-프로젝트 시작.md",
-    "temp/Openrun/기획&설계/2023-12-27-프로젝트 시작.md",
-    "temp/Openrun/기획&설계/2023-12-27-주제 확정짓기.md",
-    "temp/Openrun/기획&설계/2023-12-27-Spring과 Java 버전 선택.md",
-    "temp/Openrun/기획&설계/2023-12-27-Repository Rule.md",
-    "temp/Openrun/기획&설계/2023-12-27-어떤 DB를 선택해야 할까.md",
-    "temp/Openrun/기획&설계/2023-12-27-플로우 차트와 정책정의서.md",
-    "temp/Openrun/기획&설계/2023-12-27-프로젝트의 목적.md",
-    "temp/Openrun/기획&설계/2023-12-27-클라우드 서비스 플랫폼.md",
-    "SecondBrain/Docker/Error/2023-12-27-Error response from daemon When using COPY with more than one source file.md",
-    "SecondBrain/Docker/Error/2023-12-27-Error response from daemon COPY failed no source files were specified.md",
-    "SecondBrain/Docker/2023-12-27-프로세스 격리.md",
+    "SecondBrain/Openrun/기획&설계/2023-12-26-클라우드 서비스 플랫폼.md",
+    "SecondBrain/Openrun/기획&설계/2023-12-26-주제 확정짓기.md",
+    "SecondBrain/Openrun/기획&설계/2023-12-26-어떤 DB를 선택해야 할까.md",
+    "SecondBrain/Git/Error/2023-12-26-LF will be replaced by CRLF in pom.xml.md",
+    "SecondBrain/Git/명령어/Git 명령어.md",
+    "SecondBrain/Git/명령어/2023-12-26-status.md",
+    "SecondBrain/Git/명령어/2023-12-26-revert.md",
+    "SecondBrain/Git/명령어/2023-12-26-reset.md",
+    "SecondBrain/Git/명령어/2023-12-26-remote.md",
+    "SecondBrain/Git/명령어/2023-12-26-push.md",
+    "SecondBrain/Git/명령어/2023-12-26-pull.md",
+    "SecondBrain/Git/명령어/2023-12-26-log.md",
+    "SecondBrain/Git/명령어/2023-12-26-init.md",
+    "SecondBrain/Git/명령어/2023-12-26-fetch.md",
+    "SecondBrain/Git/명령어/2023-12-26-diff.md",
+    "SecondBrain/Git/명령어/2023-12-26-config.md",
     "temp/Openrun/기획&설계",
     "SecondBrain/Openrun/Setting",
     "temp/Openrun",
     "SecondBrain/Docker/Error",
-    "SecondBrain/Docker/2023-12-27-이미지.md",
-    "SecondBrain/Docker/2023-12-27-컨테이너.md",
-    "SecondBrain/Docker/2023-12-27-레이어 저장방식.md",
-    "SecondBrain/Docker/2023-12-27-DSL.md",
-    "SecondBrain/Docker/2023-12-27-도커 허브.md",
-    "SecondBrain/Docker/2023-12-27-Docker.md",
     "SecondBrain/Docker",
-    "temp/Blog/2023-12-27-github 블로그를 시작하며.md",
     "temp/Blog",
-    "SecondBrain/Todo/TIL/2023-12-26-2023-12-22 TIL.md",
-    "SecondBrain/Todo/TIL/2023-12-26-2023-12-26 TIL.md",
-    "temp/Openrun/기획&설계/플로우 차트와 정책정의서.md",
-    "temp/Openrun/기획&설계/프로젝트의 목적.md",
     "temp/WIL",
     "temp/TIL",
     "temp/Error",

@@ -3,6 +3,7 @@ title: Spring과 Java 버전 선택
 date: 2023-12-18 21:43
 categories:
   - Openur
+  - 기획&설계
 tags:
   - Project
   - 기획

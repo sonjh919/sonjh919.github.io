@@ -3,7 +3,7 @@ title: Error response from daemon When using COPY with more than one source file
 date: 2023-12-26 23:19
 categories:
   - Docker
-  - Spring
+  - DockerError
 tags:
   - DockerError
   - Docker
