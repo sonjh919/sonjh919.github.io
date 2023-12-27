@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2023-12-27-2023-12-27 TIL.md",
+                "file": "SecondBrain/Openrun/Setting/2023-12-27-스프링 프로젝트 생성하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2023-12-27-2023-12-27 TIL.md",
+                "file": "SecondBrain/Openrun/Setting/2023-12-27-스프링 프로젝트 생성하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2023-12-27-2023-12-27 TIL.md",
+                "file": "SecondBrain/Openrun/Setting/2023-12-27-스프링 프로젝트 생성하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2023-12-27-2023-12-27 TIL.md"
+                "file": "SecondBrain/Openrun/Setting/2023-12-27-스프링 프로젝트 생성하기.md"
               }
             }
           },
@@ -209,9 +209,11 @@
   },
   "active": "ed27bc2d5f590f18",
   "lastOpenFiles": [
+    "SecondBrain/Openrun/Setting/2023-12-27-스프링 프로젝트 Docker Build 하기.md",
+    "SecondBrain/Openrun/Setting/2023-12-27-스프링 프로젝트 생성하기.md",
+    "SecondBrain/Todo/TIL/2023-12-27-2023-12-27 TIL.md",
     "SecondBrain/Openrun/기획&설계/2023-12-26-프로젝트 시작.md",
     "temp/Openrun/기획&설계/2023-12-27-프로젝트 시작.md",
-    "SecondBrain/Openrun/Setting/2023-12-27-스프링 프로젝트 Docker Build 하기.md",
     "temp/Openrun/기획&설계/2023-12-27-주제 확정짓기.md",
     "temp/Openrun/기획&설계/2023-12-27-Spring과 Java 버전 선택.md",
     "temp/Openrun/기획&설계/2023-12-27-Repository Rule.md",
@@ -219,11 +221,9 @@
     "temp/Openrun/기획&설계/2023-12-27-플로우 차트와 정책정의서.md",
     "temp/Openrun/기획&설계/2023-12-27-프로젝트의 목적.md",
     "temp/Openrun/기획&설계/2023-12-27-클라우드 서비스 플랫폼.md",
-    "SecondBrain/Openrun/Setting/2023-12-27-스프링 프로젝트 생성하기.md",
     "SecondBrain/Docker/Error/2023-12-27-Error response from daemon When using COPY with more than one source file.md",
     "SecondBrain/Docker/Error/2023-12-27-Error response from daemon COPY failed no source files were specified.md",
     "SecondBrain/Docker/2023-12-27-프로세스 격리.md",
-    "SecondBrain/Todo/TIL/2023-12-27-2023-12-27 TIL.md",
     "temp/Openrun/기획&설계",
     "SecondBrain/Openrun/Setting",
     "temp/Openrun",
