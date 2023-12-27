@@ -13,6 +13,7 @@ tags:
 image: 
 path:
 ---
+
 스프링 프로젝트를 만들고 그 다음 단계는 Ec2 설정을 할 수 있게 Docker로 Build하여 올리는 것이다.
 
 ## 🌈 Docker Build 과정
