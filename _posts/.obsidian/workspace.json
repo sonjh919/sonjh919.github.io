@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp/RDB/SQL/Join/2023-12-28-다중 JOIN.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-28-2023-12-28 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "temp/RDB/SQL/Join/2023-12-28-다중 JOIN.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-28-2023-12-28 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "temp/RDB/SQL/Join/2023-12-28-다중 JOIN.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-28-2023-12-28 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "temp/RDB/SQL/Join/2023-12-28-다중 JOIN.md"
+                "file": "SecondBrain/Todo/TIL/2023-12-28-2023-12-28 TIL.md"
               }
             }
           },
@@ -207,44 +207,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ed27bc2d5f590f18",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
-    "temp/RDB/SQL/Join/2023-12-28-CROSS JOIN.md",
-    "temp/RDB/SQL/Join/2023-12-28-INNER JOIN.md",
-    "temp/RDB/SQL/Join/2023-12-28-JOIN.md",
-    "temp/RDB/SQL/Join/2023-12-28-NATURAL JOIN.md",
-    "temp/RDB/SQL/Join/2023-12-28-OUTER JOIN.md",
-    "temp/RDB/SQL/Join/2023-12-28-SELF JOIN.md",
-    "temp/RDB/SQL/SQL 실행 순서/2023-12-28-WHERE.md",
-    "temp/RDB/SQL/SQL 실행 순서/2023-12-28-ORDER BY.md",
-    "temp/RDB/SQL/SQL 실행 순서/2023-12-28-HAVING.md",
-    "temp/RDB/SQL/SQL 실행 순서/2023-12-28-FROM.md",
-    "temp/RDB/SQL/SQL 실행 순서/2023-12-28-GROUP BY.md",
-    "temp/RDB/SQL/Query/2023-12-28-Top-N Query.md",
-    "temp/RDB/SQL/Query/2023-12-28-SubQuery.md",
-    "temp/RDB/SQL/Join/2023-12-28-다중 JOIN.md",
-    "temp/RDB/SQL/문법/2023-12-28-연산자.md",
-    "temp/RDB/SQL/함수/2023-12-28-소계(총계) 함수.md",
-    "temp/RDB/SQL/함수/2023-12-28-윈도우 함수 옵션.md",
-    "temp/RDB/SQL/함수/2023-12-28-집계 함수.md",
-    "temp/RDB/SQL/DDL/2023-12-28-DROP vs TRUNCATE vs DELETE.md",
-    "temp/RDB/SQL/DML/2023-12-28-DELETE.md",
-    "temp/RDB/SQL/DML/2023-12-28-DML.md",
-    "temp/RDB/SQL/DML/2023-12-28-INSERT.md",
-    "temp/RDB/SQL/DML/2023-12-28-UPDATE.md",
-    "temp/RDB/SQL/DCL/2023-12-28-DCL.md",
-    "temp/RDB/SQL/함수/2023-12-28-행 순서 함수.md",
-    "temp/RDB/SQL/함수/2023-12-28-형변환 함수.md",
-    "temp/RDB/SQL/DDL",
-    "temp/RDB/SQL/함수",
-    "temp/RDB/SQL/문법",
-    "temp/RDB/SQL/TCL",
-    "temp/RDB/SQL/SQL 실행 순서",
-    "temp/RDB/SQL/Query",
-    "temp/RDB/SQL/Join",
-    "temp/RDB/SQL/DML",
-    "temp/RDB/SQL/DCL",
-    "temp/RDB/SQL",
+    "SecondBrain/Todo/TIL/TIL.md",
+    "SecondBrain/Todo/TIL/2023-12-28-2023-12-28 TIL.md",
+    "SecondBrain/Database/RDB/SQL/Join/2023-12-28-다중 JOIN.md",
+    "temp/TIL/2023-12-28-TIL.md",
+    "temp/TIL/2023-12-28-2023-12-21-TIL.md",
+    "temp/TIL/2023-12-28-2023-12-27 TIL.md",
+    "temp/TIL/2023-12-28-2023-12-26 TIL.md",
+    "temp/TIL/2023-12-28-2023-12-22-TIL.md",
+    "temp/WIL",
+    "temp/TIL/2023-12-27 TIL.md",
+    "temp/TIL/2023-12-26 TIL.md",
+    "temp/TIL/2023-12-22-TIL.md",
+    "temp/TIL/2023-12-21-TIL.md",
+    "temp/TIL",
+    "SecondBrain/Database",
+    "SecondBrain/Database/RDB/SQL/Join/2023-12-28-CROSS JOIN.md",
+    "SecondBrain/Database/RDB/SQL/Join/2023-12-28-INNER JOIN.md",
+    "SecondBrain/Database/RDB/SQL/Join/2023-12-28-JOIN.md",
+    "SecondBrain/Database/RDB/SQL/Join/2023-12-28-NATURAL JOIN.md",
+    "SecondBrain/Database/RDB/SQL/Join/2023-12-28-OUTER JOIN.md",
+    "SecondBrain/Database/RDB/SQL/Join/2023-12-28-SELF JOIN.md",
+    "SecondBrain/Database/RDB/SQL/SQL 실행 순서/2023-12-28-WHERE.md",
+    "SecondBrain/Database/RDB/SQL/SQL 실행 순서/2023-12-28-ORDER BY.md",
+    "SecondBrain/Database/RDB/SQL/SQL 실행 순서/2023-12-28-HAVING.md",
+    "SecondBrain/Database/RDB/SQL/SQL 실행 순서/2023-12-28-FROM.md",
+    "SecondBrain/Database/RDB/SQL/SQL 실행 순서/2023-12-28-GROUP BY.md",
+    "SecondBrain/Database/RDB/SQL/Query/2023-12-28-Top-N Query.md",
+    "SecondBrain/Database/RDB/SQL/Query/2023-12-28-SubQuery.md",
+    "SecondBrain/Database/RDB/SQL/문법/2023-12-28-연산자.md",
+    "SecondBrain/Database/RDB/SQL/DDL",
+    "SecondBrain/Database/RDB/SQL/함수",
+    "SecondBrain/Database/RDB/SQL/문법",
+    "SecondBrain/Database/RDB/SQL/TCL",
+    "SecondBrain/Database/RDB/SQL/SQL 실행 순서",
+    "SecondBrain/Database/RDB/SQL/Query",
+    "SecondBrain/Database/RDB/SQL/Join",
     "SecondBrain/Todo/IMG/20231222.png",
     "SecondBrain/Todo/IMG/20231221.png",
     "SecondBrain/Todo/IMG/2023-12-26-Pasted image 20231221165155.png",
