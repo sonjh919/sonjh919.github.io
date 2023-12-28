@@ -3,6 +3,18 @@
  */
 
 @mixin dark-syntax {
+  h2{
+    color:#0B6E99;
+  }
+  h3{
+    color:#6B548D;
+  }
+  h4{
+    color: #0F7B7B;
+  }
+  strong{
+    color: #E47A70;
+  }
   --language-border-color: #2d2d2d;
   --highlight-bg-color: #151515;
   --highlighter-rouge-color: #c9def1;
