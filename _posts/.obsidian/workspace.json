@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2023-12-28-2023-12-28 TIL.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-29-2023-12-29 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2023-12-28-2023-12-28 TIL.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-29-2023-12-29 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2023-12-28-2023-12-28 TIL.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-29-2023-12-29 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2023-12-28-2023-12-28 TIL.md"
+                "file": "SecondBrain/Todo/TIL/2023-12-29-2023-12-29 TIL.md"
               }
             }
           },
@@ -209,8 +209,10 @@
   },
   "active": "22e62c815c87a34c",
   "lastOpenFiles": [
-    "SecondBrain/Todo/TIL/TIL.md",
     "SecondBrain/Todo/TIL/2023-12-28-2023-12-28 TIL.md",
+    "temp/TIL/2023-12-29-TIL.md",
+    "temp/TIL/2023-12-29-2023-12-28 TIL.md",
+    "SecondBrain/Todo/TIL/TIL.md",
     "SecondBrain/Database/RDB/SQL/Join/2023-12-28-다중 JOIN.md",
     "temp/TIL/2023-12-28-TIL.md",
     "temp/TIL/2023-12-28-2023-12-21-TIL.md",
@@ -236,8 +238,6 @@
     "SecondBrain/Database/RDB/SQL/SQL 실행 순서/2023-12-28-FROM.md",
     "SecondBrain/Database/RDB/SQL/SQL 실행 순서/2023-12-28-GROUP BY.md",
     "SecondBrain/Database/RDB/SQL/Query/2023-12-28-Top-N Query.md",
-    "SecondBrain/Database/RDB/SQL/Query/2023-12-28-SubQuery.md",
-    "SecondBrain/Database/RDB/SQL/문법/2023-12-28-연산자.md",
     "SecondBrain/Database/RDB/SQL/DDL",
     "SecondBrain/Database/RDB/SQL/함수",
     "SecondBrain/Database/RDB/SQL/문법",
