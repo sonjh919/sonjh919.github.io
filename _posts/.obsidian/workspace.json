@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp/java.lang/2023-12-31-java.lang.md",
+                "file": "temp/java.util/Collection/2023-12-31-List.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "temp/java.lang/2023-12-31-java.lang.md",
+                "file": "temp/java.util/Collection/2023-12-31-List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "temp/java.lang/2023-12-31-java.lang.md",
+                "file": "temp/java.util/Collection/2023-12-31-List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "temp/java.lang/2023-12-31-java.lang.md"
+                "file": "temp/java.util/Collection/2023-12-31-List.md"
               }
             }
           },
@@ -209,6 +209,7 @@
   },
   "active": "ed27bc2d5f590f18",
   "lastOpenFiles": [
+    "temp/java.lang/2023-12-31-java.lang.md",
     "temp/java.lang/2023-12-31-Wrapper.md",
     "temp/java.util/Collection/2023-12-31-Collection.md",
     "temp/java.time/2023-12-31-java.time.md",
@@ -236,7 +237,6 @@
     "temp/java.lang/2023-12-31-record.md",
     "temp/java.lang/2023-12-31-Math.md",
     "temp/java.lang/2023-12-31-Object.md",
-    "temp/java.lang/2023-12-31-java.lang.md",
     "temp/java.lang/2023-12-31-Class.md",
     "temp/java.lang",
     "temp/java.io/2023-12-31-java.io.md",
