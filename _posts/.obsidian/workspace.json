@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2023-12-22-2023-12-22 TIL.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-21-2023-12-21 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2023-12-22-2023-12-22 TIL.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-21-2023-12-21 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2023-12-22-2023-12-22 TIL.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-21-2023-12-21 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2023-12-22-2023-12-22 TIL.md"
+                "file": "SecondBrain/Todo/TIL/2023-12-21-2023-12-21 TIL.md"
               }
             }
           },
@@ -209,14 +209,18 @@
   },
   "active": "ed27bc2d5f590f18",
   "lastOpenFiles": [
-    "SecondBrain/Todo/TIL/2023-12-21-2023-12-21 TIL.md",
-    "SecondBrain/Todo/TIL/2023-12-31-2023-12-31 TIL.md",
-    "SecondBrain/Todo/TIL/2023-12-30-2023-12-30 TIL.md",
-    "SecondBrain/Todo/TIL/2023-12-25-2023-12-25 TIL.md",
-    "SecondBrain/Todo/TIL/2023-12-24-2023-12-24 TIL.md",
+    "SecondBrain/Todo/TIL/2023-12-22-2023-12-22 TIL.md",
     "SecondBrain/Todo/TIL/2023-12-23-2023-12-23 TIL.md",
-    "temp/TIL/2023-12-31-2023-12-21-TIL.md",
+    "SecondBrain/Todo/TIL/2023-12-24-2023-12-24 TIL.md",
+    "SecondBrain/Todo/TIL/2023-12-25-2023-12-25 TIL.md",
+    "SecondBrain/Todo/TIL/2023-12-26-2023-12-26 TIL.md",
+    "SecondBrain/Todo/TIL/2023-12-27-2023-12-27 TIL.md",
+    "SecondBrain/Todo/TIL/2023-12-28-2023-12-28 TIL.md",
     "SecondBrain/Todo/TIL/2023-12-29-2023-12-29 TIL.md",
+    "SecondBrain/Todo/TIL/2023-12-30-2023-12-30 TIL.md",
+    "SecondBrain/Todo/TIL/2023-12-31-2023-12-31 TIL.md",
+    "SecondBrain/Todo/TIL/2023-12-21-2023-12-21 TIL.md",
+    "temp/TIL/2023-12-31-2023-12-21-TIL.md",
     "temp/WIL",
     "temp/TIL/2023-12-31-TIL.md",
     "temp/TIL/2023-12-31-2023-12-31 TIL.md",
@@ -233,11 +237,7 @@
     "SecondBrain/Java API/java.util/Collection/2023-12-31-Set.md",
     "SecondBrain/Java API/java.util/Collection/2023-12-31-List.md",
     "SecondBrain/Java API/java.util/Collection/2023-12-31-Collection.md",
-    "SecondBrain/Java API/java.util/2023-12-31-Random.md",
     "SecondBrain/Java API/java.util/Collection",
-    "SecondBrain/Java API/java.util/2023-12-31-Scanner.md",
-    "SecondBrain/Java API/java.util/2023-12-31-regex.md",
-    "SecondBrain/Java API/java.util/2023-12-31-Map.md",
     "SecondBrain/Java API/java.util",
     "SecondBrain/Java API/java.time",
     "SecondBrain/Java API/java.lang/Throwable",
