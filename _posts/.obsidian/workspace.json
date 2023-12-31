@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecondBrain/Java API/2023-12-31-모듈.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-31-2023-12-31 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Java API/2023-12-31-모듈.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-31-2023-12-31 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Java API/2023-12-31-모듈.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-31-2023-12-31 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/Java API/2023-12-31-모듈.md"
+                "file": "SecondBrain/Todo/TIL/2023-12-31-2023-12-31 TIL.md"
               }
             }
           },
@@ -207,10 +207,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ed27bc2d5f590f18",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
-    "temp/java.util/Collection/2023-12-31-List.md",
+    "temp/TIL/2023-12-31-TIL.md",
+    "SecondBrain/Todo/TIL/2023-12-31-2023-12-31 TIL.md",
     "SecondBrain/Java API/2023-12-31-모듈.md",
+    "temp/WIL",
+    "temp/TIL/2023-12-31-2023-12-29 TIL.md",
+    "temp/TIL/2023-12-31-2023-12-27 TIL.md",
+    "temp/TIL/2023-12-31-2023-12-28 TIL.md",
+    "temp/TIL/2023-12-31-2023-12-26 TIL.md",
+    "temp/TIL/2023-12-31-2023-12-22-TIL.md",
+    "temp/TIL/2023-12-31-2023-12-21-TIL.md",
+    "temp/TIL",
+    "temp/java.util/Collection/2023-12-31-List.md",
     "SecondBrain/Java API/2023-12-31-Java API.md",
     "SecondBrain/Java API/java.util/Collection/2023-12-31-Queue.md",
     "SecondBrain/Java API/java.util/Collection/2023-12-31-Set.md",
@@ -230,21 +240,10 @@
     "SecondBrain/Java API/java.lang/Throwable/2023-12-31-Exception.md",
     "SecondBrain/Java API/java.lang/Throwable/2023-12-31-Error.md",
     "SecondBrain/Java API/java.lang/Throwable",
-    "SecondBrain/Java API/java.lang/2023-12-31-Wrapper.md",
-    "SecondBrain/Java API/java.lang/2023-12-31-StringBuffer & StringBuilder.md",
-    "SecondBrain/Java API/java.lang/2023-12-31-String.md",
-    "SecondBrain/Java API/java.lang/2023-12-31-Stream.md",
-    "SecondBrain/Java API/java.lang/2023-12-31-record.md",
-    "SecondBrain/Java API/java.lang/2023-12-31-Object.md",
-    "SecondBrain/Java API/java.lang/2023-12-31-Math.md",
-    "SecondBrain/Java API/java.lang/2023-12-31-java.lang.md",
-    "SecondBrain/Java API/java.lang/2023-12-31-Class.md",
     "SecondBrain/Java API/java.lang",
     "SecondBrain/Java API/java.io",
     "temp/java.time",
     "temp/java.util/Collection",
-    "temp/java.util",
-    "temp/java.lang/Throwable",
     "SecondBrain/Todo/IMG/20231222.png",
     "SecondBrain/Todo/IMG/20231221.png",
     "SecondBrain/Todo/IMG/2023-12-26-Pasted image 20231221165155.png",
