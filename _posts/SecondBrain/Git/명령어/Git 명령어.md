@@ -11,7 +11,7 @@ image:
 path:
 ---
 
-## 🌈 Git 명령어
+## Git 명령어
 [init](https://sonjh919.github.io/posts/init)
 [checkout](https://sonjh919.github.io/posts/checkout)
 [status](https://sonjh919.github.io/posts/status)

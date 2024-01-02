@@ -1,18 +1,24 @@
 /*
  * The syntax light mode code snippet colors.
  */
+ @font-face {
+  font-family: 'RIDIBatang';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.0/RIDIBatang.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
 
 @mixin light-syntax {
   /* --- text color --- */
-  h2{
-    color:#0B6E99;
-  }
-  h3{
-    color:#6B548D;
-  }
-  h4{
-    color: #0F7B7B;
-  }
+  // h2{
+  //   color:#0B6E99;
+  // }
+  // h3{
+  //   color:#6B548D;
+  // }
+  // h4{
+  //   color: #0F7B7B;
+  // }
   strong{
     color: #E47A70;
   }

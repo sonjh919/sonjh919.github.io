@@ -11,6 +11,6 @@ image:
 path:
 ---
 
-## 🌈 Git 개념
+## Git 개념
 [Commit 종류](https://sonjh919.github.io/posts/Commit-종류)
 [Git의 3가지 영역](https://sonjh919.github.io/posts/Git의-3가지-영역)
