@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9f74ae1a49d2f14a",
+        "id": "acb4cf3c336415e3",
         "type": "tabs",
         "children": [
           {
-            "id": "ed27bc2d5f590f18",
+            "id": "f2dbcbc6eb740ab1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp/SecondBrain/Java API/java.io/2023-12-31-java.io.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-30-2023-12-30 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "temp/SecondBrain/Java API/java.io/2023-12-31-java.io.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-30-2023-12-30 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "temp/SecondBrain/Java API/java.io/2023-12-31-java.io.md",
+                "file": "SecondBrain/Todo/TIL/2023-12-30-2023-12-30 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "temp/SecondBrain/Java API/java.io/2023-12-31-java.io.md"
+                "file": "SecondBrain/Todo/TIL/2023-12-30-2023-12-30 TIL.md"
               }
             }
           },
@@ -207,8 +207,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ed27bc2d5f590f18",
+  "active": "f2dbcbc6eb740ab1",
   "lastOpenFiles": [
+    "SecondBrain/Todo/TIL/2023-12-26-2023-12-26 TIL.md",
+    "SecondBrain/Todo/TIL/2023-12-22-2023-12-22 TIL.md",
+    "SecondBrain/Todo/TIL/2023-12-21-2023-12-21 TIL.md",
+    "SecondBrain/Openrun/기획&설계/2023-12-26-어떤 DB를 선택해야 할까.md",
     "temp/SecondBrain/Git/명령어/2023-12-26-diff.md",
     "temp/SecondBrain/Git/개념/Git 개념.md",
     "temp/SecondBrain/Git/개념/2023-12-26-Git의 3가지 영역.md",
@@ -232,10 +236,6 @@
     "temp/SecondBrain/Todo/TIL/2023-12-27-2023-12-27 TIL.md",
     "temp/SecondBrain/Todo/TIL/2023-12-26-2023-12-26 TIL.md",
     "temp/SecondBrain/Todo/TIL/2023-12-23-2023-12-23 TIL.md",
-    "temp/SecondBrain/Todo/TIL/2023-12-25-2023-12-25 TIL.md",
-    "temp/SecondBrain/Todo/TIL/2023-12-24-2023-12-24 TIL.md",
-    "temp/SecondBrain/Todo/TIL/2023-12-22-2023-12-22 TIL.md",
-    "temp/SecondBrain/Todo/TIL/2023-12-21-2023-12-21 TIL.md",
     "temp/SecondBrain/Todo/WIL",
     "temp/SecondBrain/Todo/TIL",
     "temp/SecondBrain/Todo",
