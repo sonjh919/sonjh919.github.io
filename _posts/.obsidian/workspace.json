@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2023-12-30-2023-12-30 TIL.md",
+                "file": "SecondBrain/Todo/TIL/2024-01-02-2024-01-02 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2023-12-30-2023-12-30 TIL.md",
+                "file": "SecondBrain/Todo/TIL/2024-01-02-2024-01-02 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2023-12-30-2023-12-30 TIL.md",
+                "file": "SecondBrain/Todo/TIL/2024-01-02-2024-01-02 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2023-12-30-2023-12-30 TIL.md"
+                "file": "SecondBrain/Todo/TIL/2024-01-02-2024-01-02 TIL.md"
               }
             }
           },
@@ -207,8 +207,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f2dbcbc6eb740ab1",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
+    "temp/TIL/2024-01-02-2024-01-01 TIL.md",
+    "SecondBrain/Todo/TIL/2024-01-02-2024-01-02 TIL.md",
+    "SecondBrain/Todo/TIL/2023-12-30-2023-12-30 TIL.md",
     "SecondBrain/Todo/TIL/2023-12-26-2023-12-26 TIL.md",
     "SecondBrain/Todo/TIL/2023-12-22-2023-12-22 TIL.md",
     "SecondBrain/Todo/TIL/2023-12-21-2023-12-21 TIL.md",
@@ -233,9 +236,6 @@
     "temp/SecondBrain/Todo/TIL/2023-12-30-2023-12-30 TIL.md",
     "temp/SecondBrain/Todo/TIL/2023-12-29-2023-12-29 TIL.md",
     "temp/SecondBrain/Todo/TIL/2023-12-28-2023-12-28 TIL.md",
-    "temp/SecondBrain/Todo/TIL/2023-12-27-2023-12-27 TIL.md",
-    "temp/SecondBrain/Todo/TIL/2023-12-26-2023-12-26 TIL.md",
-    "temp/SecondBrain/Todo/TIL/2023-12-23-2023-12-23 TIL.md",
     "temp/SecondBrain/Todo/WIL",
     "temp/SecondBrain/Todo/TIL",
     "temp/SecondBrain/Todo",
