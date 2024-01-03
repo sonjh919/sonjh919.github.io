@@ -22,4 +22,4 @@ path:
 + [Heap Area](https://sonjh919.github.io/posts/Heap-Area)
 + [Stack Area](https://sonjh919.github.io/posts/Stack-Area)
 
-![](/assets/img/IMG/TIL/runtime.png)
+![](/assets/img/IMG/Java/개발-환경/runtime.png)
