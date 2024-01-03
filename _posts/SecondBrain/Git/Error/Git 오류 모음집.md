@@ -3,6 +3,7 @@ title: Git 오류 모음집
 date: 2023-12-21 14:09
 categories:
   - Git
+  - 상황모음집
 tags:
   - Git
   - GitError
