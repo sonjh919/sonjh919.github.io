@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2024-01-02-2024-01-02 TIL.md",
+                "file": "SecondBrain/Java API/java.util/2024-01-03-Optional.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2024-01-02-2024-01-02 TIL.md",
+                "file": "SecondBrain/Java API/java.util/2024-01-03-Optional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2024-01-02-2024-01-02 TIL.md",
+                "file": "SecondBrain/Java API/java.util/2024-01-03-Optional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2024-01-02-2024-01-02 TIL.md"
+                "file": "SecondBrain/Java API/java.util/2024-01-03-Optional.md"
               }
             }
           },
@@ -209,8 +209,14 @@
   },
   "active": "22e62c815c87a34c",
   "lastOpenFiles": [
-    "temp/TIL/2024-01-02-2024-01-01 TIL.md",
+    "SecondBrain/Java API/java.util/2024-01-03-function.md",
+    "SecondBrain/Java API/java.util/2023-12-31-java.util.md",
+    "SecondBrain/Java API/java.util/2024-01-03-Optional.md",
+    "temp/function.md",
+    "temp/Optional.md",
+    "SecondBrain/Java API/java.lang/2023-12-31-Stream.md",
     "SecondBrain/Todo/TIL/2024-01-02-2024-01-02 TIL.md",
+    "temp/TIL/2024-01-02-2024-01-01 TIL.md",
     "SecondBrain/Todo/TIL/2023-12-30-2023-12-30 TIL.md",
     "SecondBrain/Todo/TIL/2023-12-26-2023-12-26 TIL.md",
     "SecondBrain/Todo/TIL/2023-12-22-2023-12-22 TIL.md",
@@ -229,13 +235,7 @@
     "temp/SecondBrain/객체지향의 사실과 오해/2024-01-02-06 객체 지도.md",
     "temp/SecondBrain/객체지향의 사실과 오해/2024-01-02-05 책임과 메시지.md",
     "temp/SecondBrain/객체지향의 사실과 오해/2024-01-02-04 역할, 책임, 협력.md",
-    "temp/SecondBrain/객체지향의 사실과 오해/2024-01-02-02 이상한 나라의 객체.md",
     "temp/SecondBrain/객체지향의 사실과 오해",
-    "temp/SecondBrain/Todo/TIL/2024-01-01-2024-01-01 TIL.md",
-    "temp/SecondBrain/Todo/TIL/2023-12-31-2023-12-31 TIL.md",
-    "temp/SecondBrain/Todo/TIL/2023-12-30-2023-12-30 TIL.md",
-    "temp/SecondBrain/Todo/TIL/2023-12-29-2023-12-29 TIL.md",
-    "temp/SecondBrain/Todo/TIL/2023-12-28-2023-12-28 TIL.md",
     "temp/SecondBrain/Todo/WIL",
     "temp/SecondBrain/Todo/TIL",
     "temp/SecondBrain/Todo",
