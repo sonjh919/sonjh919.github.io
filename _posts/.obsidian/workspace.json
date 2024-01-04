@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2024-01-03-2024-01-03 TIL.md",
+                "file": "SecondBrain/객체지향의 사실과 오해/2024-01-02-01 협력하는 객체들의 공동체.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2024-01-03-2024-01-03 TIL.md",
+                "file": "SecondBrain/객체지향의 사실과 오해/2024-01-02-01 협력하는 객체들의 공동체.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2024-01-03-2024-01-03 TIL.md",
+                "file": "SecondBrain/객체지향의 사실과 오해/2024-01-02-01 협력하는 객체들의 공동체.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2024-01-03-2024-01-03 TIL.md"
+                "file": "SecondBrain/객체지향의 사실과 오해/2024-01-02-01 협력하는 객체들의 공동체.md"
               }
             }
           },
@@ -209,32 +209,34 @@
   },
   "active": "f2dbcbc6eb740ab1",
   "lastOpenFiles": [
-    "temp/TIL/2024-01-03-2023-12-21-TIL.md",
-    "SecondBrain/Todo/TIL/2024-01-03-2024-01-03 TIL.md",
-    "SecondBrain/Git/Error/2023-12-26-LF will be replaced by CRLF in pom.xml.md",
+    "SecondBrain/Todo/TIL/2024-01-04-2024-01-04 TIL.md",
+    "temp/TIL/2024-01-04-2024-01-04 TIL.md",
+    "temp/WIL",
+    "temp/TIL/2024-01-05-TIL.md",
+    "temp/TIL/2024-01-05-2024-01-04 TIL.md",
+    "temp/TIL/2024-01-05-2024-01-03 TIL.md",
+    "temp/TIL/2024-01-05-2024-01-02 TIL.md",
+    "temp/TIL/2024-01-05-2024-01-01 TIL.md",
+    "temp/TIL/2024-01-05-2023-12-31 TIL.md",
+    "temp/TIL/2024-01-05-2023-12-30 TIL.md",
+    "temp/TIL/2024-01-05-2023-12-29 TIL.md",
+    "temp/TIL/2024-01-05-2023-12-28 TIL.md",
+    "temp/TIL/2024-01-05-2023-12-27 TIL.md",
+    "temp/TIL/2024-01-05-2023-12-26 TIL.md",
+    "temp/TIL/2024-01-05-2023-12-24 TIL.md",
+    "temp/TIL/2024-01-05-2023-12-25 TIL.md",
+    "temp/TIL/2024-01-05-2023-12-23 TIL.md",
+    "temp/TIL/2024-01-05-2023-12-22-TIL.md",
+    "temp/TIL/2024-01-05-2023-12-21-TIL.md",
+    "temp/TIL",
     "SecondBrain/Git/Error/2024-01-03-이미 push한 commit 변경하기.md",
+    "SecondBrain/Todo/TIL/2024-01-03-2024-01-03 TIL.md",
+    "temp/TIL/2024-01-03-2023-12-21-TIL.md",
+    "SecondBrain/Git/Error/2023-12-26-LF will be replaced by CRLF in pom.xml.md",
     "temp/2024-01-03-이미 push한 commit 변경하기.md",
     "temp/이미 push한 commit 변경하기.md",
     "SecondBrain/Git/Error/Git 오류 모음집.md",
     "SecondBrain/Git/Git.md",
-    "SecondBrain/Git/명령어/2023-12-26-add.md",
-    "SecondBrain/Todo/TIL/2024-01-02-2024-01-02 TIL.md",
-    "SecondBrain/Java/기본 문법/2024-01-03-ASCII.md",
-    "SecondBrain/Todo/TIL/2023-12-28-2023-12-28 TIL.md",
-    "SecondBrain/Java API/java.util/Collection/2023-12-31-Collection.md",
-    "SecondBrain/Todo/TIL/2023-12-22-2023-12-22 TIL.md",
-    "SecondBrain/Java/기본 문법/2024-01-03-enum.md",
-    "SecondBrain/Todo/TIL/2024-01-01-2024-01-01 TIL.md",
-    "SecondBrain/Java/클래스&객체/2024-01-03-클래스와 객체.md",
-    "SecondBrain/Java/클래스&객체/2024-01-03-추상 클래스.md",
-    "SecondBrain/Java/클래스&객체/2024-01-03-제네릭.md",
-    "SecondBrain/Java/클래스&객체/2024-01-03-인터페이스.md",
-    "SecondBrain/Java/클래스&객체/2024-01-03-접근 지정자.md",
-    "SecondBrain/Java/클래스&객체/2024-01-03-오버라이딩과 오버로딩.md",
-    "SecondBrain/Java/클래스&객체/2024-01-03-업캐스팅 & 다운캐스팅.md",
-    "SecondBrain/Java/클래스&객체/2024-01-03-생성자.md",
-    "SecondBrain/Java/클래스&객체/2024-01-03-상속.md",
-    "SecondBrain/Java/클래스&객체/2024-01-03-불변 클래스.md",
     "SecondBrain/Java/클래스&객체",
     "SecondBrain/Java/모던 자바",
     "SecondBrain/Java/기본 문법",
@@ -243,8 +245,6 @@
     "temp/모던 자바",
     "temp/기본 문법",
     "temp/클래스&객체",
-    "temp/개발 환경/JVM",
-    "temp/개발 환경",
     "SecondBrain/Todo/IMG/20231222.png",
     "SecondBrain/Todo/IMG/20231221.png",
     "SecondBrain/Todo/IMG/2023-12-26-Pasted image 20231221165155.png",
