@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "acb4cf3c336415e3",
+        "id": "2ce8022a0a014462",
         "type": "tabs",
         "children": [
           {
-            "id": "f2dbcbc6eb740ab1",
+            "id": "06d551c2404e0ee9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SecondBrain/Todo/TIL/2024-01-07-2024-01-06 TIL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SecondBrain/Todo/TIL/2024-01-07-2024-01-06 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SecondBrain/Todo/TIL/2024-01-07-2024-01-06 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SecondBrain/Todo/TIL/2024-01-07-2024-01-06 TIL.md"
+              }
             }
           },
           {
@@ -198,7 +207,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f2dbcbc6eb740ab1",
+  "active": "06d551c2404e0ee9",
   "lastOpenFiles": [
     "temp/코드기록장/2024-01-07-equals와 hashcode 재정의.md",
     "SecondBrain/코드기록장/2024-01-07-equals와 hashcode 재정의.md",
