@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2024-01-07-2024-01-06 TIL.md",
+                "file": "SecondBrain/Java/개발 환경/2024-01-03-Java의 역사와 특징.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2024-01-07-2024-01-06 TIL.md",
+                "file": "SecondBrain/Java/개발 환경/2024-01-03-Java의 역사와 특징.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2024-01-07-2024-01-06 TIL.md",
+                "file": "SecondBrain/Java/개발 환경/2024-01-03-Java의 역사와 특징.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2024-01-07-2024-01-06 TIL.md"
+                "file": "SecondBrain/Java/개발 환경/2024-01-03-Java의 역사와 특징.md"
               }
             }
           },
@@ -209,10 +209,12 @@
   },
   "active": "06d551c2404e0ee9",
   "lastOpenFiles": [
+    "SecondBrain/Java/개발 환경/2024-01-03-JIT.md",
+    "SecondBrain/Java/개발 환경/2024-01-03-JAR.md",
+    "SecondBrain/Todo/TIL/2024-01-07-2024-01-06 TIL.md",
     "temp/코드기록장/2024-01-07-equals와 hashcode 재정의.md",
     "SecondBrain/코드기록장/2024-01-07-equals와 hashcode 재정의.md",
     "SecondBrain/코드기록장",
-    "SecondBrain/Todo/TIL/2024-01-07-2024-01-06 TIL.md",
     "SecondBrain/Todo/TIL/2024-01-07-2024-01-05 TIL.md",
     "temp/2024-01-07-2024-01-06 TIL.md",
     "temp/2024-01-07-2024-01-05 TIL.md",
@@ -235,9 +237,7 @@
     "temp/TIL/2024-01-05-2023-12-25 TIL.md",
     "temp/TIL/2024-01-05-2023-12-23 TIL.md",
     "temp/TIL/2024-01-05-2023-12-22-TIL.md",
-    "temp/TIL/2024-01-05-2023-12-21-TIL.md",
     "temp/TIL",
-    "SecondBrain/Git/Error/2024-01-03-이미 push한 commit 변경하기.md",
     "SecondBrain/Java/클래스&객체",
     "SecondBrain/Java/모던 자바",
     "SecondBrain/Java/기본 문법",
