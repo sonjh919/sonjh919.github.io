@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2ce8022a0a014462",
+        "id": "82ac57cffec636c0",
         "type": "tabs",
         "children": [
           {
-            "id": "06d551c2404e0ee9",
+            "id": "af26ea8b0263c008",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2024-01-09-2024-01-09 TIL.md",
+                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-13-2024-01-13 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2024-01-09-2024-01-09 TIL.md",
+                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-13-2024-01-13 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2024-01-09-2024-01-09 TIL.md",
+                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-13-2024-01-13 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2024-01-09-2024-01-09 TIL.md"
+                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-13-2024-01-13 TIL.md"
               }
             }
           },
@@ -207,8 +207,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "06d551c2404e0ee9",
+  "active": "af26ea8b0263c008",
   "lastOpenFiles": [
+    "SecondBrain/Todo/TIL/2024-01/2024-01-12-2024-01-12 TIL.md",
     "SecondBrain/Java/개발 환경/2024-01-03-Java의 역사와 특징.md",
     "SecondBrain/Java/개발 환경/2024-01-03-JIT.md",
     "SecondBrain/Java/개발 환경/2024-01-03-JAR.md",
@@ -236,7 +237,6 @@
     "temp/TIL/2024-01-05-2023-12-26 TIL.md",
     "temp/TIL/2024-01-05-2023-12-24 TIL.md",
     "temp/TIL/2024-01-05-2023-12-25 TIL.md",
-    "temp/TIL/2024-01-05-2023-12-23 TIL.md",
     "temp/TIL",
     "SecondBrain/Java/클래스&객체",
     "SecondBrain/Java/모던 자바",
