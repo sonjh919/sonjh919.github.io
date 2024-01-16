@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecondBrain/오브젝트/2024-01-16-06 메시지와 인터페이스.md",
+                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-16-2024-01-16 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/오브젝트/2024-01-16-06 메시지와 인터페이스.md",
+                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-16-2024-01-16 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/오브젝트/2024-01-16-06 메시지와 인터페이스.md",
+                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-16-2024-01-16 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/오브젝트/2024-01-16-06 메시지와 인터페이스.md"
+                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-16-2024-01-16 TIL.md"
               }
             }
           },
@@ -209,6 +209,9 @@
   },
   "active": "af26ea8b0263c008",
   "lastOpenFiles": [
+    "SecondBrain/오브젝트/2024-01-16-07 객체 분해.md",
+    "SecondBrain/오브젝트/07 객체 분해.md",
+    "SecondBrain/오브젝트/2024-01-16-06 메시지와 인터페이스.md",
     "SecondBrain/KPT회고/2024-01-16-KPT회고 - 수강생 관리 프로그램.md",
     "SecondBrain/KPT회고",
     "SecondBrain/새 폴더",
@@ -218,7 +221,6 @@
     "SecondBrain/오브젝트/2024-01-09-02 객체지향 프로그래밍.md",
     "SecondBrain/오브젝트/2024-01-09-01 객체, 설계.md",
     "SecondBrain/오브젝트/2024-01-14-04 설계 품질과 트레이드오프.md",
-    "SecondBrain/오브젝트/2024-01-16-06 메시지와 인터페이스.md",
     "SecondBrain/Todo/TIL/2024-01/2024-01-13-2024-01-13 TIL.md",
     "SecondBrain/Todo/TIL/2024-01/2024-01-12-2024-01-12 TIL.md",
     "SecondBrain/Java/개발 환경/2024-01-03-Java의 역사와 특징.md",
@@ -237,8 +239,6 @@
     "temp/WIL",
     "temp/TIL/2024-01-05-TIL.md",
     "temp/TIL/2024-01-05-2024-01-04 TIL.md",
-    "temp/TIL/2024-01-05-2024-01-03 TIL.md",
-    "temp/TIL/2024-01-05-2024-01-02 TIL.md",
     "temp/TIL",
     "SecondBrain/Java/클래스&객체",
     "SecondBrain/Java/모던 자바",
