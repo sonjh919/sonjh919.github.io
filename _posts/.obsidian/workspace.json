@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecondBrain/오브젝트/2024-01-09-03 역할, 책임, 협력.md",
+                "file": "SecondBrain/오브젝트/2024-01-16-06 메시지와 인터페이스.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/오브젝트/2024-01-09-03 역할, 책임, 협력.md",
+                "file": "SecondBrain/오브젝트/2024-01-16-06 메시지와 인터페이스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/오브젝트/2024-01-09-03 역할, 책임, 협력.md",
+                "file": "SecondBrain/오브젝트/2024-01-16-06 메시지와 인터페이스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/오브젝트/2024-01-09-03 역할, 책임, 협력.md"
+                "file": "SecondBrain/오브젝트/2024-01-16-06 메시지와 인터페이스.md"
               }
             }
           },
@@ -209,11 +209,15 @@
   },
   "active": "af26ea8b0263c008",
   "lastOpenFiles": [
+    "SecondBrain/KPT회고/2024-01-16-KPT회고 - 수강생 관리 프로그램.md",
+    "SecondBrain/KPT회고",
+    "SecondBrain/새 폴더",
+    "temp/2024-01-16-KPT회고 - 수강생 관리 프로그램.md",
+    "SecondBrain/오브젝트/2024-01-15-05 책임 할당하기.md",
+    "SecondBrain/오브젝트/2024-01-09-03 역할, 책임, 협력.md",
     "SecondBrain/오브젝트/2024-01-09-02 객체지향 프로그래밍.md",
     "SecondBrain/오브젝트/2024-01-09-01 객체, 설계.md",
-    "SecondBrain/오브젝트/2024-01-09-03 역할, 책임, 협력.md",
     "SecondBrain/오브젝트/2024-01-14-04 설계 품질과 트레이드오프.md",
-    "SecondBrain/오브젝트/2024-01-15-05 책임 할당하기.md",
     "SecondBrain/오브젝트/2024-01-16-06 메시지와 인터페이스.md",
     "SecondBrain/Todo/TIL/2024-01/2024-01-13-2024-01-13 TIL.md",
     "SecondBrain/Todo/TIL/2024-01/2024-01-12-2024-01-12 TIL.md",
@@ -235,16 +239,12 @@
     "temp/TIL/2024-01-05-2024-01-04 TIL.md",
     "temp/TIL/2024-01-05-2024-01-03 TIL.md",
     "temp/TIL/2024-01-05-2024-01-02 TIL.md",
-    "temp/TIL/2024-01-05-2024-01-01 TIL.md",
-    "temp/TIL/2024-01-05-2023-12-31 TIL.md",
     "temp/TIL",
     "SecondBrain/Java/클래스&객체",
     "SecondBrain/Java/모던 자바",
     "SecondBrain/Java/기본 문법",
     "SecondBrain/Java/개발 환경/JVM",
     "SecondBrain/Java/개발 환경",
-    "temp/모던 자바",
-    "temp/기본 문법",
     "SecondBrain/Todo/IMG/20231222.png",
     "SecondBrain/Todo/IMG/20231221.png",
     "SecondBrain/Todo/IMG/2023-12-26-Pasted image 20231221165155.png",
