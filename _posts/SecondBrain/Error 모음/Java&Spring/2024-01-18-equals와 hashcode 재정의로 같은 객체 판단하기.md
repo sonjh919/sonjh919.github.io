@@ -92,4 +92,4 @@ public boolean equals(Object o){
 ## 성공!
 같은 객체로 받아들이는 것을 확인할 수 있었다.
 
-![](/assets/img/IMG/Error 모음/Java&Springequals와hashcode재정의.png)
+![](/assets/img/IMG/Error/Java&Springequals와hashcode재정의.png)

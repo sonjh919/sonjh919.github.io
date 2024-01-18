@@ -13,7 +13,7 @@ path:
 흔한 코딩을 하던 도중, 흔하지 않은 오류가 생겨버렸다.
 분명 코드는 깔끔했으나, 실행되는 경우도 있었고, 500에러가 뜨는 경우도 있었다.
 
-![](/assets/img/IMG/Error 모음/Java&Springrequestparam.png)
+![](/assets/img/IMG/Error/Java&Springrequestparam.png)
 
 > java.lang.IllegalArgumentException: Name for argument of type [java.lang.String] not specified, and parameter name information not found in class file either.
 
@@ -49,18 +49,18 @@ tasks.withType(JavaCompile) {
 }
 ```
 
-하지만 gradle에서는 자동으로 debug 옵션을 세팅해준다고 한다!
-메서드들의 내용을 보면 Defaults to `true`로 명시되어 있는 것을 볼 수 있었다.
++ 하지만 gradle에서는 자동으로 debug 옵션을 세팅해준다고 한다!
++ 메서드들의 내용을 보면 Defaults to `true`로 명시되어 있는 것을 볼 수 있었다.
 
-출처 : https://docs.gradle.org/current/javadoc/org/gradle/api/tasks/compile/CompileOptions.html#setDebug-boolean-
++ 출처 : [CompileOptions.html#setDebug-boolean-](https://sonjh919.github.io/posts/CompileOptions.html#setDebug-boolean-)
 
-![](/assets/img/IMG/Error 모음/Java&SpringisDebug.png)
+![](/assets/img/IMG/Error/Java&SpringisDebug.png)
 
 ### Intellij는 어떨까?
-If라는 것으로 보아, 디폴트 옵션은 아닌 듯하고 따로 설정해야 하는 것 같다.
-출처 : https://www.jetbrains.com/help/idea/java-compiler.html#javac_eclipse
++ If라는 것으로 보아, 디폴트 옵션은 아닌 듯하고 따로 설정해야 하는 것 같다.
++ 출처 : https://www.jetbrains.com/help/idea/java-compiler.html#javac_eclipse
 
-![](/assets/img/IMG/Error 모음/Java&SpringIntellijdebug.png)
+![](/assets/img/IMG/Error/Java&SpringIntellijdebug.png)
 
 ## 결론
 디버깅 옵션 때문에 일어난 일이었다. 우리 모두 gradle을 쓰도록 하자. 찾아보면서 알았지만 Intellij는 빠르지만 증분 빌드(incremental build)때문에 지운 파일에서 에러가 생기는 경우도 생긴다고 한다.
