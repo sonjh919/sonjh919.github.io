@@ -3,10 +3,10 @@ title: equals와 hashcode 재정의
 date: 2024-01-07 01:43
 categories:
   - Error
-  - Java
+  - Java&SpringError
 tags:
   - Java
-  - 코드일기장
+  - Error
 image: 
 path:
 ---
@@ -92,4 +92,4 @@ public boolean equals(Object o){
 ## 성공!
 같은 객체로 받아들이는 것을 확인할 수 있었다.
 
-![](/assets/img/IMG/Error/JavaSpringequals와hashcode재정의.png)
+![](/assets/img/IMG/Error/equals와hashcode재정의.png)

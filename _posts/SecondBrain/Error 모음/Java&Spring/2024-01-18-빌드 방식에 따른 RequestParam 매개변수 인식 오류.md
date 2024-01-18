@@ -2,9 +2,11 @@
 title: RequestParam 매개변수 인식 오류
 date: 2024-01-18 16:24
 categories:
-  - Spring
+  - Error
+  - Java&SpringError
 tags:
   - Spring
+  - Error
 image: 
 path:
 ---
@@ -13,7 +15,7 @@ path:
 흔한 코딩을 하던 도중, 흔하지 않은 오류가 생겨버렸다.
 분명 코드는 깔끔했으나, 실행되는 경우도 있었고, 500에러가 뜨는 경우도 있었다.
 
-![](/assets/img/IMG/Error/JavaSpringrequestparam.png)
+![](/assets/img/IMG/Error/requestparam.png)
 
 > java.lang.IllegalArgumentException: Name for argument of type [java.lang.String] not specified, and parameter name information not found in class file either.
 
@@ -54,13 +56,13 @@ tasks.withType(JavaCompile) {
 
 + 출처 : [https://docs.gradle.org/current/javadoc/org/gradle/api/tasks/compile/CompileOptions.html#setDebug-boolean-](https://docs.gradle.org/current/javadoc/org/gradle/api/tasks/compile/CompileOptions.html#setDebug-boolean-)
 
-![](/assets/img/IMG/Error/JavaSpringisDebug.png)
+![](/assets/img/IMG/Error/isDebug.png)
 
 ### Intellij는 어떨까?
 + If라는 것으로 보아, 디폴트 옵션은 아닌 듯하고 따로 설정해야 하는 것 같다.
 + 출처 : [https://www.jetbrains.com/help/idea/java-compiler.html#javac_eclipse](https://www.jetbrains.com/help/idea/java-compiler.html#javac_eclipse)
 
-![](/assets/img/IMG/Error/JavaSpringIntellijdebug.png)
+![](/assets/img/IMG/Error/Intellijdebug.png)
 
 ## 결론
 디버깅 옵션 때문에 일어난 일이었다. 우리 모두 gradle을 쓰도록 하자. 찾아보면서 알았지만 Intellij는 빠르지만 증분 빌드(incremental build)때문에 지운 파일에서 에러가 생기는 경우도 생긴다고 한다.
