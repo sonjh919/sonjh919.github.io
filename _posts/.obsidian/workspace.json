@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecondBrain/Java API/java.sql/2024-01-18-JdbcTemplate.md",
+                "file": "SecondBrain/Java API/java.sql/2024-01-18-java.sql.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Java API/java.sql/2024-01-18-JdbcTemplate.md",
+                "file": "SecondBrain/Java API/java.sql/2024-01-18-java.sql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Java API/java.sql/2024-01-18-JdbcTemplate.md",
+                "file": "SecondBrain/Java API/java.sql/2024-01-18-java.sql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/Java API/java.sql/2024-01-18-JdbcTemplate.md"
+                "file": "SecondBrain/Java API/java.sql/2024-01-18-java.sql.md"
               }
             }
           },
@@ -207,8 +207,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "af26ea8b0263c008",
   "lastOpenFiles": [
+    "SecondBrain/Java API/java.sql/2024-01-18-JdbcTemplate.md",
+    "SecondBrain/Java API/java.sql/2024-01-18-JDBC.md",
     "SecondBrain/Error 모음/Java&Spring/2024-01-18-equals와 hashcode 재정의로 같은 객체 판단하기.md",
     "SecondBrain/Java API/java.sql",
     "SecondBrain/Error 모음/Java&Spring/2024-01-18-빌드 방식에 따른 RequestParam 매개변수 인식 오류.md",
@@ -243,7 +245,6 @@
     "SecondBrain/Book/오브젝트/2024-01-16-07 객체 분해.md",
     "SecondBrain/Book/오브젝트/2024-01-14-04 설계 품질과 트레이드오프.md",
     "SecondBrain/Book/오브젝트/2024-01-09-02 객체지향 프로그래밍.md",
-    "SecondBrain/Book/오브젝트/2024-01-09-01 객체, 설계.md",
     "SecondBrain/Todo/IMG/20231222.png",
     "SecondBrain/Todo/IMG/20231221.png",
     "SecondBrain/Todo/IMG/2023-12-26-Pasted image 20231221165155.png",

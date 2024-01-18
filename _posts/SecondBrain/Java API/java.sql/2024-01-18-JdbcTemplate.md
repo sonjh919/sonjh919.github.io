@@ -19,4 +19,4 @@ path:
 - 물론 JdbcTemplate이 JDBC를 직접 사용할 때 발생하는 불편함을 해결해 주었지만 아직도 복잡하고 사용하기 까다로운 것은 분명한 사실이다. 다행히도 Java 개발자들을 위해 DB와 객체를 매핑하여 소통할 수 있는 **ORM**이라는 기술이 등장했다.
 
  
- ![](/assets/img/IMG/Java API/java.sqljdbcTemplate.png)
+ ![](/assets/img/IMG/Java API/java.sql/jdbcTemplate.png)
