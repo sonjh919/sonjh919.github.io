@@ -61,7 +61,7 @@ tasks.withType<JavaCompile>(){
 + 하지만 gradle에서는 자동으로 debug 옵션을 세팅해준다고 한다!
 + 메서드들의 내용을 보면 Defaults to `true`로 명시되어 있는 것을 볼 수 있었다.
 
-+ 출처 : https://docs.gradle.org/current/javadoc/org/gradle/api/tasks/compile/CompileOptions.html#setDebug-boolean-
++ 출처 : [https://docs.gradle.org/current/javadoc/org/gradle/api/tasks/compile/CompileOptions.html#setDebug-boolean-](https://docs.gradle.org/current/javadoc/org/gradle/api/tasks/compile/CompileOptions.html#setDebug-boolean-)
 
 ![](/assets/img/IMG/Error/isDebug.png)
 
@@ -71,7 +71,7 @@ tasks.withType<JavaCompile>(){
 
 ![](/assets/img/IMG/Error/parameters.png)
 
-+ 출처 : https://www.jetbrains.com/help/idea/java-compiler.html#javac_eclipse
++ 출처 : [https://www.jetbrains.com/help/idea/java-compiler.html#javac_eclipse](https://www.jetbrains.com/help/idea/java-compiler.html#javac_eclipse)
 
 ![](/assets/img/IMG/Error/Intellijdebug.png)
 
