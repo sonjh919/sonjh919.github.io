@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecondBrain/Spring/Servlet/2024-01-22-Servlet Life Cycle.md",
+                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-22-2024-01-21 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Spring/Servlet/2024-01-22-Servlet Life Cycle.md",
+                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-22-2024-01-21 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Spring/Servlet/2024-01-22-Servlet Life Cycle.md",
+                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-22-2024-01-21 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/Spring/Servlet/2024-01-22-Servlet Life Cycle.md"
+                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-22-2024-01-21 TIL.md"
               }
             }
           },
@@ -207,8 +207,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22e62c815c87a34c",
+  "active": "af26ea8b0263c008",
   "lastOpenFiles": [
+    "SecondBrain/Todo/TIL/2024-01/2024-01-17-2024-01-17 TIL.md",
+    "SecondBrain/Todo/TIL/2024-01/2024-01-13-2024-01-13 TIL.md",
+    "SecondBrain/Todo/TIL/2024-01/2024-01-22-2024-01-19 TIL.md",
+    "SecondBrain/Todo/TIL/2024-01/2024-01-22-2024-01-20 TIL.md",
+    "SecondBrain/Todo/TIL/2024-01/2024-01-22-2024-01-21 TIL.md",
+    "SecondBrain/Spring/Servlet/2024-01-22-Servlet Life Cycle.md",
     "SecondBrain/Spring",
     "SecondBrain/Spring/Servlet/2024-01-22-Servlet Container.md",
     "temp/Servlet/2024-01-22-MOC.md",
@@ -233,18 +239,12 @@
     "temp/Git/2024-01-18-이미 push한 commit 변경하기.md",
     "temp/Git/2024-01-18-LF will be replaced by CRLF in pom.xml.md",
     "temp/Git",
-    "temp/Docker/2024-01-18-Error response from daemon When using COPY with more than one source file.md",
-    "temp/Docker/2024-01-18-Error response from daemon COPY failed no source files were specified.md",
     "temp/Docker",
     "SecondBrain/Error 모음/Java&Spring",
-    "SecondBrain/Java&Spring/2024-01-18-빌드 방식에 따른 RequestParam 매개변수 인식 오류.md",
-    "SecondBrain/Java&Spring/2024-01-18-equals와 hashcode 재정의로 같은 객체 판단하기.md",
     "SecondBrain/Java&Spring",
     "temp",
     "te,[",
     "새 폴더",
-    "SecondBrain/코드기록장/2024-01-07-equals와 hashcode 재정의.md",
-    "SecondBrain/Error 모음",
     "SecondBrain/Todo/IMG/20231222.png",
     "SecondBrain/Todo/IMG/20231221.png",
     "SecondBrain/Todo/IMG/2023-12-26-Pasted image 20231221165155.png",
