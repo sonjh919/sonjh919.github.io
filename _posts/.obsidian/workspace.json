@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-23-2024-01-23 TIL.md",
+                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-24-2024-01-24 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-23-2024-01-23 TIL.md",
+                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-24-2024-01-24 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-23-2024-01-23 TIL.md",
+                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-24-2024-01-24 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-23-2024-01-23 TIL.md"
+                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-24-2024-01-24 TIL.md"
               }
             }
           },
@@ -207,10 +207,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "af26ea8b0263c008",
+  "active": "22e62c815c87a34c",
   "lastOpenFiles": [
-    "temp/2024-01-23-2024-01-22 TIL.md",
+    "SecondBrain/Todo/TIL/2024-01/2024-01-22-2024-01-22 TIL.md",
+    "temp/2024-01-24-2023-01 TIL.md",
     "SecondBrain/Todo/TIL/2024-01/2024-01-23-2024-01-23 TIL.md",
+    "temp/2024-01-23-2024-01-22 TIL.md",
     "SecondBrain/JPA/2024-01-22-트랜잭션.md",
     "temp/2024-01-23-2024-01-21 TIL.md",
     "temp/2024-01-23-2024-01-20 TIL.md",
@@ -233,8 +235,6 @@
     "temp/2024-01-23-2024-01-03 TIL.md",
     "temp/2024-01-23-2024-01-02 TIL.md",
     "temp/2024-01-23-2024-01-01 TIL.md",
-    "temp/2024-01-23-2023-01 TIL.md",
-    "SecondBrain/JPA/2024-01-22-Entity 상태.md",
     "SecondBrain/Spring",
     "SecondBrain/Java API/java.sql",
     "temp/Java&Spring",
