@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-25-2024-01-25 TIL.md",
+                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-29-2024-01-26 TIL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-25-2024-01-25 TIL.md",
+                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-29-2024-01-26 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-25-2024-01-25 TIL.md",
+                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-29-2024-01-26 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-25-2024-01-25 TIL.md"
+                "file": "SecondBrain/Todo/TIL/2024-01/2024-01-29-2024-01-26 TIL.md"
               }
             }
           },
@@ -209,6 +209,12 @@
   },
   "active": "22e62c815c87a34c",
   "lastOpenFiles": [
+    "temp/2024-01-29-2024-01-28 TIL.md",
+    "SecondBrain/Todo/TIL/2024-01/2024-01-29-2024-01-26 TIL.md",
+    "temp/2024-01-29-2024-01-27 TIL.md",
+    "temp/2024-01-29-2024-01-25 TIL.md",
+    "temp/2024-01-29-2023-01 TIL.md",
+    "SecondBrain/Todo/TIL/2024-01/2024-01-25-2024-01-25 TIL.md",
     "SecondBrain/Todo/TIL/2024-01/2024-01-24-2024-01-24 TIL.md",
     "temp/2024-01-26-2024-01-24 TIL.md",
     "SecondBrain/Todo/TIL/2024-01/2024-01-22-2024-01-22 TIL.md",
@@ -229,12 +235,6 @@
     "temp/2024-01-23-2024-01-11 TIL.md",
     "temp/2024-01-23-2024-01-10 TIL.md",
     "temp/2024-01-23-2024-01-09 TIL.md",
-    "temp/2024-01-23-2024-01-08 TIL.md",
-    "temp/2024-01-23-2024-01-07 TIL.md",
-    "temp/2024-01-23-2024-01-06 TIL.md",
-    "temp/2024-01-23-2024-01-05 TIL.md",
-    "temp/2024-01-23-2024-01-04 TIL.md",
-    "temp/2024-01-23-2024-01-03 TIL.md",
     "SecondBrain/Spring",
     "SecondBrain/Java API/java.sql",
     "temp/Java&Spring",
